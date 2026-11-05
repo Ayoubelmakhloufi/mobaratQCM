@@ -1,0 +1,8740 @@
+{
+  "meta": {
+    "title": "مِعيار",
+    "sourceTitle": "جامع امتحانات تخصص التربية الإسلامية لولوج المراكز الجهوية لمهن التربية والتكوين",
+    "author": "غزلان الشراط",
+    "sourceUrl": "https://drive.google.com/file/d/1mHUGWWXF-qPTqfQ0oNc-7ttQiv3wxTfs/view",
+    "sourcePages": 399,
+    "total": 953,
+    "ready": 953,
+    "pending": 0,
+    "stage": "الإصدار الشامل للأسئلة والفروع مع الشروح والتحفظات الموثقة",
+    "sections": [
+      {
+        "id": 1,
+        "name": "حفظ السور القرآنية",
+        "count": 30,
+        "ready": 30,
+        "pages": [
+          7,
+          20
+        ],
+        "answerPages": [
+          57,
+          70
+        ],
+        "sourceCount": 19,
+        "pending": 0
+      },
+      {
+        "id": 2,
+        "name": "علوم القرآن الكريم",
+        "count": 78,
+        "ready": 78,
+        "pages": [
+          21,
+          36
+        ],
+        "answerPages": [
+          71,
+          86
+        ],
+        "sourceCount": 56,
+        "pending": 1
+      },
+      {
+        "id": 3,
+        "name": "تفسير القرآن الكريم",
+        "count": 31,
+        "ready": 31,
+        "pages": [
+          37,
+          44
+        ],
+        "answerPages": [
+          87,
+          94
+        ],
+        "sourceCount": 22,
+        "pending": 0
+      },
+      {
+        "id": 4,
+        "name": "التجويد والقراءات",
+        "count": 53,
+        "ready": 53,
+        "pages": [
+          45,
+          54
+        ],
+        "answerPages": [
+          95,
+          104
+        ],
+        "sourceCount": 38,
+        "pending": 3
+      },
+      {
+        "id": 5,
+        "name": "العقيدة الإسلامية",
+        "count": 69,
+        "ready": 69,
+        "pages": [
+          106,
+          121
+        ],
+        "answerPages": [
+          123,
+          138
+        ],
+        "sourceCount": 54,
+        "pending": 9
+      },
+      {
+        "id": 6,
+        "name": "الحديث الشريف وعلومه",
+        "count": 110,
+        "ready": 110,
+        "pages": [
+          140,
+          160
+        ],
+        "answerPages": [
+          162,
+          182
+        ],
+        "sourceCount": 74,
+        "pending": 3
+      },
+      {
+        "id": 7,
+        "name": "الفقه الإسلامي",
+        "count": 135,
+        "ready": 135,
+        "pages": [
+          184,
+          205
+        ],
+        "answerPages": [
+          207,
+          228
+        ],
+        "sourceCount": 82,
+        "pending": 12
+      },
+      {
+        "id": 8,
+        "name": "أصول الفقه ومقاصد الشريعة",
+        "count": 167,
+        "ready": 167,
+        "pages": [
+          230,
+          252
+        ],
+        "answerPages": [
+          254,
+          277
+        ],
+        "sourceCount": 76,
+        "pending": 6
+      },
+      {
+        "id": 9,
+        "name": "السيرة النبوية والخلافة الراشدة",
+        "count": 83,
+        "ready": 83,
+        "pages": [
+          279,
+          298
+        ],
+        "answerPages": [
+          300,
+          319
+        ],
+        "sourceCount": 68,
+        "pending": 1
+      },
+      {
+        "id": 10,
+        "name": "تاريخ التشريع الإسلامي",
+        "count": 32,
+        "ready": 32,
+        "pages": [
+          321,
+          326
+        ],
+        "answerPages": [
+          328,
+          333
+        ],
+        "sourceCount": 22,
+        "pending": 1
+      },
+      {
+        "id": 11,
+        "name": "القيم وثوابت المملكة المغربية",
+        "count": 34,
+        "ready": 34,
+        "pages": [
+          335,
+          340
+        ],
+        "answerPages": [
+          342,
+          347
+        ],
+        "sourceCount": 20,
+        "pending": 0
+      },
+      {
+        "id": 12,
+        "name": "الفكر التربوي وثقافة الحوار",
+        "count": 49,
+        "ready": 49,
+        "pages": [
+          349,
+          357
+        ],
+        "answerPages": [
+          359,
+          368
+        ],
+        "sourceCount": 29,
+        "pending": 0
+      },
+      {
+        "id": 13,
+        "name": "المصادر والكتب",
+        "count": 82,
+        "ready": 82,
+        "pages": [
+          370,
+          383
+        ],
+        "answerPages": [
+          385,
+          399
+        ],
+        "sourceCount": 50,
+        "pending": 2
+      }
+    ],
+    "primaryCount": 610,
+    "coveredPrimary": 610,
+    "unresolvedParts": 38,
+    "unresolved": [
+      {
+        "parentId": "s2-q35",
+        "detail": "حسم التعارض بين المفتاح ب ومضامين سورة يس؛ أ ود قابلان للتأييد، ولا يقدم التصحيح تعليلا يرفع الإشكال."
+      },
+      {
+        "parentId": "s4-q32",
+        "detail": "علامة أ (التوسط) تخالف الاستثناء المشهور لمد البدل بعد ساكن صحيح متصل (القصر، ب). وثق المفتاح ولم يحسم تعليميا."
+      },
+      {
+        "parentId": "s4-q35",
+        "detail": "علامة ب (الحذف) تخالف ظاهر الألف الزائدة في رسم لأاذبحنه (الزيادة، أ). لم يقدم المؤلف تعليلا يرفع التعارض."
+      },
+      {
+        "parentId": "s4-q36",
+        "detail": "السؤال عن الفرق لكن علامته عند وجه الاشتراك أ، والبديل ج قابل للصحة؛ لم يعلل المصدر استبعاده."
+      },
+      {
+        "parentId": "s5-q2",
+        "detail": "إغفال علامة إبراهيم عليه السلام في قائمة أولي العزم مع دخوله في الخمسة المشهورين. وثقت العلامات مع التنبيه على السهو."
+      },
+      {
+        "parentId": "s5-q6",
+        "detail": "صفوف العلم والإرادة موسومة بالمعنوية والقادر بالمعاني خلاف التقسيم المعروف، مع تداخل عمود واجبة مع بقية الأعمدة. وثق موضع علامة كل صف وتبين التصنيف الصحيح في الشرح؛ يحتاج الجدول تصحيحا علميا."
+      },
+      {
+        "parentId": "s5-q17",
+        "detail": "المفتاح ج ينسب خلق الأفعال للعباد خلاف تقرير الكسب في س٥-س٤٦، وأ وب صحيحتان في المذهب. تحتاج الإجابة مراجعة لا اختيارا يقينيا."
+      },
+      {
+        "parentId": "s5-q18",
+        "detail": "البديل ب عن الصفات الزائدة على الذات يحتمل اصطلاحا صحيحا عند الأشاعرة؛ المصدر اختار د دون تعليل لاستبعاد ب."
+      },
+      {
+        "parentId": "s5-q34",
+        "detail": "المفتاح هـ يناقض صحة ب في الصفات المعنوية، ولا يوجد تعليل يرفع هذا التعارض."
+      },
+      {
+        "parentId": "s5-q37",
+        "detail": "إجمال الحسن والقبح العقليين لا يستبعد الماتريدية مطلقا؛ يحتاج السؤال تقييد مراد المعتزلة ليفرد أ."
+      },
+      {
+        "parentId": "s5-q38",
+        "detail": "المصدر اختار هـ مع قابلية ب للصحة في تعريف إيمان المعتزلة وإدخال العمل وترك الكبائر. لا تعليل في التصحيح يقطع الاستبعاد."
+      },
+      {
+        "parentId": "s5-q41",
+        "detail": "«العمل شرط الإيمان» (أ) قريب من «لا إيمان بدون عمل» (د)، ولا يوضح المصدر اصطلاح الشرط أو تفصيل جنس العمل؛ أبقي د مع التحفظ."
+      },
+      {
+        "parentId": "s5-q45",
+        "detail": "تقرير تقديم العقل عند المتأخرين مجمل وخلافي، ويحتاج تقييدا ليتسق مع نفي تقديمه بإطلاق في السؤال ٤٧."
+      },
+      {
+        "parentId": "s6-q42",
+        "detail": "المفتاح ب ثابت في الصورة لكنه ينسب للجمهور رد التعديل غير المفسر، خلاف المشهور؛ لم يعلل المصدر اختياره. حفظ المفتاح باعتباره اختيار المصدر لا حكما علميا نهائيا."
+      },
+      {
+        "parentId": "s6-q56",
+        "detail": "المصدر يؤشر د دون تعليل، مع أن د يبدل تحقق العز بالبحث عنه، وأ وج يحتملان جوانب من المعنى. لم يحسم البديل الأنسب علميا؛ السؤال مصوغ عن مفتاح المصدر مع تحفظ."
+      },
+      {
+        "parentId": "s6-q66",
+        "detail": "المفتاح هـ بلا تعليل، مع تداخل وصف المكثر والوفاة بعد الستين مع أبي سعيد الخدري؛ لا يصرح المصدر بالصحابي المقصود ولا يبرر استبعاده."
+      },
+      {
+        "parentId": "s7-q4",
+        "detail": "الصف ج: وضع التصحيح علامة الخطأ أمام سقوط الفدية عن المريض المرجو شفاؤه، دون تعليل؛ تعارضه مع وجوب القضاء دون فدية لم يحسم من المصدر."
+      },
+      {
+        "parentId": "s7-q9",
+        "detail": "الصف د: تصنيف القدرة على الصيام شرط صحة في الجدول مشكل، ولم يقدم المصدر تعليلا يرفع التعارض مع كونها متعلقة بوجوب الأداء."
+      },
+      {
+        "parentId": "s7-q17",
+        "detail": "المفتاح C لا يكفي لتحديد التعصيب فقط؛ لم يذكر السؤال انتفاء الفرع الأنثى، ولا يتيح خيارا تاما يجمع انتفاء الفروع مطلقا."
+      },
+      {
+        "parentId": "s7-q36",
+        "detail": "المفتاح D يعارض قاعدة المصاهرة التي تجعل الدخول بالأم شرطا لتحريم بنتها؛ لا يوجد في المصدر تعليل يفسر استبعاد C."
+      },
+      {
+        "parentId": "s7-q40",
+        "detail": "البديلان B وC قريبان من D في وصف المرابحة للآمر بالشراء، ولم يبرر المصدر انفراد D بالصحة."
+      },
+      {
+        "parentId": "s7-q55",
+        "detail": "البديل C يتضمن معلومية الربح، ولم يفسر المصدر سبب رفضه مع اختيار شرط الملك الحقيقي في A؛ ليس التعارض بينهما حاسما."
+      },
+      {
+        "parentId": "s7-q58",
+        "detail": "المفتاح B مشكل في المذهب المالكي إذا حصل الدخول بالمعتدة، بينما D يقرر فسخ العقد؛ لا يفسر المصدر اختياره."
+      },
+      {
+        "parentId": "s7-q60",
+        "detail": "لا يصرح النص بالدلك والفور، كما تتداخل عبارتا A وC؛ عين المصدر C دون إزالة هذا الاحتمال."
+      },
+      {
+        "parentId": "s7-q61",
+        "detail": "المصدر لا يبين فاصلا اصطلاحيا بين فضائل الوضوء B ومستحباته D يبرر تخطئة أحدهما."
+      },
+      {
+        "parentId": "s7-q62",
+        "detail": "لم يحسم سبب رفض D، وهو تفسير الاجتماع على إناء واحد، مع اختيار المصدر E دون شرح."
+      },
+      {
+        "parentId": "s7-q66",
+        "detail": "لحظة تذكر الركوع بالنسبة إلى عقد الركعة التالية غير محددة؛ لا يمكن تعميم إلغاء الركعة على كل صور التذكر."
+      },
+      {
+        "parentId": "s7-q75",
+        "detail": "B وD يتداخلان في تعريف الطلاق السني؛ لم يقدم المصدر تعليلا يجعل D خاطئا، رغم أنه يذكر صورة صحيحة."
+      },
+      {
+        "parentId": "s8-q14",
+        "detail": "لم يحسم خطأ المفتاح المطبوع: اختير ج مع أنه مفهوم الموافقة، والتعريف الموافق لمفهوم المخالفة هو د."
+      },
+      {
+        "parentId": "s8-q20",
+        "detail": "مفتاح العبارة الأولى في اقتضاء الأمر والنهي يحتاج تحريرا؛ لا يقدم المصدر تعليلا لاستبعاد العبارات الأخرى."
+      },
+      {
+        "parentId": "s8-q21",
+        "detail": "اختار المصدر ج لاتفاق مادة العلمين دون تعليل؛ وهو مخالف للتمييز المعروف بين موضوع المنطق وموضوع أصول الفقه."
+      },
+      {
+        "parentId": "s8-q38",
+        "detail": "مفتاح PDF هو د، لكنه يعكس الفرق بين الفتوى والاجتهاد؛ البديل ب صحيح من جهة المعنى. لا يوجد تصويب من المؤلف يحسم الخلل."
+      },
+      {
+        "parentId": "s8-q54",
+        "detail": "السؤال يطلب أصلا من أصول المالكية والمفتاح ب يختار ترك مفهوم المخالفة؛ يبدو النفي ساقطا من السؤال ولا يمكن الجزم بذلك."
+      },
+      {
+        "parentId": "s8-q75",
+        "detail": "العلامة أ مؤكدة في PDF، لكن عموم السؤال لا يوضح سبب استبعاد ب وج وهما مرتبطان أيضا بوجوه الاحتياج إلى المقاصد؛ تحفظ على الحصرية لا فقدان للمفتاح."
+      },
+      {
+        "parentId": "s10-q4",
+        "detail": "لم تثبت نسبة إرادة اعتماد الموطأ مرجعا وحيدا إلى المنصور الذهبي: التصحيح الرسمي يختاره، وصاحب هامش المصدر يصرح بأنه لم يجد دليلا عليه. غطي اختيار التصحيح والتنبيه إلى القصة المعروفة مع أبي جعفر المنصور، وبقي إثبات النسبة التاريخية إلى الذهبي غير محسوم."
+      },
+      {
+        "parentId": "s9-q21",
+        "detail": "تعيين جواب وحيد من حيث صحة المعاني غير محسوم بسبب صياغة الخيارات: اعتمد المصدر ب (إحلال الغنائم)، لكن معنى د (جعل الأرض مسجدا) من الخصائص الثابتة أيضا. غطي مفتاح المصدر مع التنبيه، دون الحكم ببطلان المعنى الآخر."
+      },
+      {
+        "parentId": "s13-q3",
+        "detail": "تحديد الكتاب المقصود بالعنوان العام «الفقه المالكي» غير محسوم: الصورة والتصحيح يختاران ابن أبي زيد القيرواني دون ضبط عنوان معروف بعينه؛ حفظ المفتاح مع بيان الالتباس."
+      },
+      {
+        "parentId": "s13-q7",
+        "detail": "الفرع أ: لم يحسم توثيق طبعة «آداب الصحبة والمعاشرة» وهوية «محمد الغزالي» نهائيا؛ يرجح فهرس خارجي أبا حامد الغزالي، وحفظ اختيار التصحيح دون نسبته إلى الكاتب المعاصر."
+      }
+    ],
+    "version": 2
+  },
+  "coverage": [
+    {
+      "parentId": "s1-q1",
+      "section": 1,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 7,
+      "answerPage": 57,
+      "items": 12,
+      "partsCovered": [
+        "إتمام الحجرات — المقطع 1",
+        "إتمام الحجرات — المقطع 2",
+        "إتمام الحجرات — المقطع 3",
+        "إتمام الحجرات — المقطع 4",
+        "إتمام الحجرات — المقطع 5",
+        "إتمام الكهف — المقطع 1",
+        "إتمام الكهف — المقطع 2",
+        "إتمام الكهف — المقطع 3",
+        "إتمام الكهف — المقطع 4",
+        "إتمام الكهف — المقطع 5",
+        "إتمام الكهف — المقطع 6",
+        "إتمام الكهف — المقطع 7"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q2",
+      "section": 1,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 8,
+      "answerPage": 58,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q3",
+      "section": 1,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 9,
+      "answerPage": 59,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q4",
+      "section": 1,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 10,
+      "answerPage": 60,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q5",
+      "section": 1,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 11,
+      "answerPage": 61,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q6",
+      "section": 1,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 12,
+      "answerPage": 62,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q7",
+      "section": 1,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 12,
+      "answerPage": 62,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q8",
+      "section": 1,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 13,
+      "answerPage": 63,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q9",
+      "section": 1,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 14,
+      "answerPage": 64,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q10",
+      "section": 1,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 14,
+      "answerPage": 64,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q11",
+      "section": 1,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 15,
+      "answerPage": 65,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q12",
+      "section": 1,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 15,
+      "answerPage": 65,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q13",
+      "section": 1,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 16,
+      "answerPage": 66,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q14",
+      "section": 1,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 16,
+      "answerPage": 66,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q15",
+      "section": 1,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 17,
+      "answerPage": 67,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q16",
+      "section": 1,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 18,
+      "answerPage": 68,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q17",
+      "section": 1,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 18,
+      "answerPage": 68,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q18",
+      "section": 1,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 19,
+      "answerPage": 69,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s1-q19",
+      "section": 1,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 20,
+      "answerPage": 70,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — ترتيب جميع المقاطع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q1",
+      "section": 2,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 21,
+      "answerPage": 71,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q2",
+      "section": 2,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 21,
+      "answerPage": 71,
+      "items": 3,
+      "partsCovered": [
+        "العبارة أ — الرسم والخط",
+        "العبارة ب — ترتيب السور",
+        "العبارة ج — ابن الزبير"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q3",
+      "section": 2,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 21,
+      "answerPage": 71,
+      "items": 2,
+      "partsCovered": [
+        "الفرع أ — التعبد بالترجمة",
+        "الفرع ب — نسخ القرآن بالسنة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q4",
+      "section": 2,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 21,
+      "answerPage": 71,
+      "items": 2,
+      "partsCovered": [
+        "الفائدة الأولى — حكمة التشريع",
+        "الفائدة الثانية — فهم المعنى ورفع الإشكال"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q5",
+      "section": 2,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 22,
+      "answerPage": 72,
+      "items": 6,
+      "partsCovered": [
+        "عضو اللجنة 1 — زيد بن ثابت",
+        "عضو اللجنة 2 — سعيد بن العاص",
+        "عضو اللجنة 3 — حذيفة بن اليمان",
+        "عضو اللجنة 4 — عبد الله بن الزبير",
+        "عضو اللجنة 5 — أبو موسى الأشعري",
+        "عضو اللجنة 6 — عبد الرحمن بن الحارث بن هشام"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q6",
+      "section": 2,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 22,
+      "answerPage": 72,
+      "items": 4,
+      "partsCovered": [
+        "الصف 1 — قيم النساء 29",
+        "الصف 2 — قيم آل عمران 102",
+        "الصف 3 — قيم التوبة 103",
+        "الصف 4 — قيم البقرة 282"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q7",
+      "section": 2,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 22,
+      "answerPage": 72,
+      "items": 5,
+      "partsCovered": [
+        "الصف 1 — الوحي المجرد",
+        "الصف 2 — التكليم من وراء حجاب بلا واسطة",
+        "الصف 3 — النفث في الروع",
+        "الصف 4 — الرؤيا الصادقة",
+        "الصف 5 — الوحي الجلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q8",
+      "section": 2,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 23,
+      "answerPage": 73,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q9",
+      "section": 2,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 23,
+      "answerPage": 73,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q10",
+      "section": 2,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 23,
+      "answerPage": 73,
+      "items": 5,
+      "partsCovered": [
+        "العبارة أ",
+        "العبارة ب",
+        "العبارة ج",
+        "العبارة د",
+        "العبارة هـ"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q11",
+      "section": 2,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 23,
+      "answerPage": 73,
+      "items": 3,
+      "partsCovered": [
+        "ترتيب الآية أ",
+        "ترتيب الآية ب",
+        "ترتيب الآية ج"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q12",
+      "section": 2,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 24,
+      "answerPage": 74,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q13",
+      "section": 2,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 24,
+      "answerPage": 74,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q14",
+      "section": 2,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 24,
+      "answerPage": 74,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q15",
+      "section": 2,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 24,
+      "answerPage": 74,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q16",
+      "section": 2,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 25,
+      "answerPage": 75,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q17",
+      "section": 2,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 25,
+      "answerPage": 75,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q18",
+      "section": 2,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 25,
+      "answerPage": 75,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q19",
+      "section": 2,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 26,
+      "answerPage": 76,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q20",
+      "section": 2,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 26,
+      "answerPage": 76,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q21",
+      "section": 2,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 26,
+      "answerPage": 76,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q22",
+      "section": 2,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 27,
+      "answerPage": 77,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q23",
+      "section": 2,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 27,
+      "answerPage": 77,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q24",
+      "section": 2,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 27,
+      "answerPage": 77,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q25",
+      "section": 2,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 27,
+      "answerPage": 77,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q26",
+      "section": 2,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 28,
+      "answerPage": 78,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q27",
+      "section": 2,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 28,
+      "answerPage": 78,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q28",
+      "section": 2,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 28,
+      "answerPage": 78,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q29",
+      "section": 2,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 28,
+      "answerPage": 78,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q30",
+      "section": 2,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 28,
+      "answerPage": 78,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q31",
+      "section": 2,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 29,
+      "answerPage": 79,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q32",
+      "section": 2,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 29,
+      "answerPage": 79,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q33",
+      "section": 2,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 29,
+      "answerPage": 79,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q34",
+      "section": 2,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 29,
+      "answerPage": 79,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q35",
+      "section": 2,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 30,
+      "answerPage": 80,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي — مع التنبيه إلى إشكال المفتاح"
+      ],
+      "unresolved": [
+        "حسم التعارض بين المفتاح ب ومضامين سورة يس؛ أ ود قابلان للتأييد، ولا يقدم التصحيح تعليلا يرفع الإشكال."
+      ]
+    },
+    {
+      "parentId": "s2-q36",
+      "section": 2,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 30,
+      "answerPage": 80,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q37",
+      "section": 2,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 30,
+      "answerPage": 80,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q38",
+      "section": 2,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 30,
+      "answerPage": 80,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q39",
+      "section": 2,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 31,
+      "answerPage": 81,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q40",
+      "section": 2,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 31,
+      "answerPage": 81,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q41",
+      "section": 2,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 31,
+      "answerPage": 81,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q42",
+      "section": 2,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 31,
+      "answerPage": 81,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q43",
+      "section": 2,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 32,
+      "answerPage": 82,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q44",
+      "section": 2,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 32,
+      "answerPage": 82,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q45",
+      "section": 2,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 32,
+      "answerPage": 82,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q46",
+      "section": 2,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 33,
+      "answerPage": 83,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q47",
+      "section": 2,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 33,
+      "answerPage": 83,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q48",
+      "section": 2,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 33,
+      "answerPage": 83,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q49",
+      "section": 2,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 34,
+      "answerPage": 84,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q50",
+      "section": 2,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 34,
+      "answerPage": 84,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q51",
+      "section": 2,
+      "originalNumber": 51,
+      "occurrence": 1,
+      "page": 34,
+      "answerPage": 84,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q52",
+      "section": 2,
+      "originalNumber": 52,
+      "occurrence": 1,
+      "page": 35,
+      "answerPage": 85,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q53",
+      "section": 2,
+      "originalNumber": 53,
+      "occurrence": 1,
+      "page": 35,
+      "answerPage": 85,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q54",
+      "section": 2,
+      "originalNumber": 54,
+      "occurrence": 1,
+      "page": 35,
+      "answerPage": 85,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q55",
+      "section": 2,
+      "originalNumber": 55,
+      "occurrence": 1,
+      "page": 36,
+      "answerPage": 86,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s2-q56",
+      "section": 2,
+      "originalNumber": 56,
+      "occurrence": 1,
+      "page": 36,
+      "answerPage": 86,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q1",
+      "section": 3,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 37,
+      "answerPage": 87,
+      "items": 6,
+      "partsCovered": [
+        "الكتاب 1 — معالم التنزيل لمحمد الحسين البغوي",
+        "الكتاب 2 — حقائق التفسير لعبد الرحمن السلمي",
+        "الكتاب 3 — روح المعاني لشهاب الدين الألوسي",
+        "الكتاب 4 — جامع البيان في تأويل القرآن لابن جرير الطبري",
+        "الكتاب 5 — إرشاد العقل السليم لمحمد بن أبي السعود",
+        "الكتاب 6 — مفاتيح الغيب لفخر الدين الرازي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q2",
+      "section": 3,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 37,
+      "answerPage": 87,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q3",
+      "section": 3,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 37,
+      "answerPage": 87,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q4",
+      "section": 3,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 38,
+      "answerPage": 88,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q5",
+      "section": 3,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 38,
+      "answerPage": 88,
+      "items": 5,
+      "partsCovered": [
+        "الصف 1 — جامع البيان في تفسير القرآن للطبري",
+        "الصف 2 — مفاتيح الغيب للرازي",
+        "الصف 3 — تفسير القرآن العظيم لابن كثير",
+        "الصف 4 — الكشاف عن حقائق التنزيل للزمخشري",
+        "الصف 5 — التفسير البياني للقرآن الكريم لعائشة عبد الرحمن بنت الشاطئ"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q6",
+      "section": 3,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 38,
+      "answerPage": 88,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q7",
+      "section": 3,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 38,
+      "answerPage": 88,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q8",
+      "section": 3,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 39,
+      "answerPage": 89,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q9",
+      "section": 3,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 39,
+      "answerPage": 89,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q10",
+      "section": 3,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 39,
+      "answerPage": 89,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q11",
+      "section": 3,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 40,
+      "answerPage": 90,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q12",
+      "section": 3,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 40,
+      "answerPage": 90,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q13",
+      "section": 3,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 40,
+      "answerPage": 90,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q14",
+      "section": 3,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 41,
+      "answerPage": 91,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q15",
+      "section": 3,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 41,
+      "answerPage": 91,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q16",
+      "section": 3,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 41,
+      "answerPage": 91,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q17",
+      "section": 3,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 42,
+      "answerPage": 92,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q18",
+      "section": 3,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 42,
+      "answerPage": 92,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q19",
+      "section": 3,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 42,
+      "answerPage": 92,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q20",
+      "section": 3,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 43,
+      "answerPage": 93,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q21",
+      "section": 3,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 43,
+      "answerPage": 93,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s3-q22",
+      "section": 3,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 44,
+      "answerPage": 94,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي المتكرر"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q1",
+      "section": 4,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 45,
+      "answerPage": 95,
+      "items": 2,
+      "partsCovered": [
+        "استخراج مثال القلقلة",
+        "استخراج الإدغام الكامل"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q2",
+      "section": 4,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 45,
+      "answerPage": 95,
+      "items": 3,
+      "partsCovered": [
+        "حكم الراء في صغيرا",
+        "حكم الراء في حاضرة",
+        "حكم الراء في أم ارتابوا"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q3",
+      "section": 4,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 45,
+      "answerPage": 95,
+      "items": 4,
+      "partsCovered": [
+        "حكم الراء في خير لكم",
+        "حكم الراء في إصرا",
+        "حكم الراء في أم ارتابوا",
+        "حكم الراء في ناضرة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q4",
+      "section": 4,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 45,
+      "answerPage": 96,
+      "items": 2,
+      "partsCovered": [
+        "استخراج الإخفاء",
+        "استخراج مد البدل"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q5",
+      "section": 4,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 46,
+      "answerPage": 96,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q6",
+      "section": 4,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 46,
+      "answerPage": 96,
+      "items": 2,
+      "partsCovered": [
+        "حكم الراء في الذكر",
+        "حكم النون الساكنة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q7",
+      "section": 4,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 46,
+      "answerPage": 96,
+      "items": 2,
+      "partsCovered": [
+        "تعريف الإمالة",
+        "مثال الإمالة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q8",
+      "section": 4,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 47,
+      "answerPage": 97,
+      "items": 4,
+      "partsCovered": [
+        "ترقيق الراء",
+        "مد البدل",
+        "المد الطبيعي",
+        "المد المنفصل الناشئ عن الصلة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q9",
+      "section": 4,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 47,
+      "answerPage": 97,
+      "items": 4,
+      "partsCovered": [
+        "الراء المكسورة",
+        "الكسر اللازم",
+        "الياء الساكنة",
+        "الألف الممالة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q10",
+      "section": 4,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 47,
+      "answerPage": 97,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q11",
+      "section": 4,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 47,
+      "answerPage": 97,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q12",
+      "section": 4,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 48,
+      "answerPage": 98,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q13",
+      "section": 4,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 48,
+      "answerPage": 98,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q14",
+      "section": 4,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 48,
+      "answerPage": 98,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q15",
+      "section": 4,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 48,
+      "answerPage": 98,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q16",
+      "section": 4,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 48,
+      "answerPage": 98,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q17",
+      "section": 4,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 49,
+      "answerPage": 99,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q18",
+      "section": 4,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 49,
+      "answerPage": 99,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q19",
+      "section": 4,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 49,
+      "answerPage": 99,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q20",
+      "section": 4,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 49,
+      "answerPage": 99,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q21",
+      "section": 4,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 50,
+      "answerPage": 100,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q22",
+      "section": 4,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 50,
+      "answerPage": 100,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q23",
+      "section": 4,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 50,
+      "answerPage": 100,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q24",
+      "section": 4,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 50,
+      "answerPage": 100,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q25",
+      "section": 4,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 51,
+      "answerPage": 101,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q26",
+      "section": 4,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 51,
+      "answerPage": 101,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q27",
+      "section": 4,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 51,
+      "answerPage": 101,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q28",
+      "section": 4,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 51,
+      "answerPage": 101,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q29",
+      "section": 4,
+      "originalNumber": 28,
+      "occurrence": 2,
+      "page": 52,
+      "answerPage": 102,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q30",
+      "section": 4,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 52,
+      "answerPage": 102,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q31",
+      "section": 4,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 52,
+      "answerPage": 102,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q32",
+      "section": 4,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 53,
+      "answerPage": 103,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "علامة أ (التوسط) تخالف الاستثناء المشهور لمد البدل بعد ساكن صحيح متصل (القصر، ب). وثق المفتاح ولم يحسم تعليميا."
+      ]
+    },
+    {
+      "parentId": "s4-q33",
+      "section": 4,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 53,
+      "answerPage": 103,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q34",
+      "section": 4,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 53,
+      "answerPage": 103,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q35",
+      "section": 4,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 53,
+      "answerPage": 103,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "علامة ب (الحذف) تخالف ظاهر الألف الزائدة في رسم لأاذبحنه (الزيادة، أ). لم يقدم المؤلف تعليلا يرفع التعارض."
+      ]
+    },
+    {
+      "parentId": "s4-q36",
+      "section": 4,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 54,
+      "answerPage": 104,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "السؤال عن الفرق لكن علامته عند وجه الاشتراك أ، والبديل ج قابل للصحة؛ لم يعلل المصدر استبعاده."
+      ]
+    },
+    {
+      "parentId": "s4-q37",
+      "section": 4,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 54,
+      "answerPage": 104,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s4-q38",
+      "section": 4,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 54,
+      "answerPage": 104,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q1",
+      "section": 5,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 106,
+      "answerPage": 123,
+      "items": 3,
+      "partsCovered": [
+        "تزكية النفس وتسديد السلوك",
+        "استحضار الثواب وشحذ الهمة",
+        "الاستخلاف وإعمار الأرض"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q2",
+      "section": 5,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 106,
+      "answerPage": 123,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "إغفال علامة إبراهيم عليه السلام في قائمة أولي العزم مع دخوله في الخمسة المشهورين. وثقت العلامات مع التنبيه على السهو."
+      ]
+    },
+    {
+      "parentId": "s5-q3",
+      "section": 5,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 106,
+      "answerPage": 123,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q4",
+      "section": 5,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 106,
+      "answerPage": 123,
+      "items": 2,
+      "partsCovered": [
+        "دليل ختم الرسالة",
+        "دليل الإيمان بالأنبياء"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q5",
+      "section": 5,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 107,
+      "answerPage": 124,
+      "items": 4,
+      "partsCovered": [
+        "صحة المعتقد",
+        "الجمع بين النص والعقل",
+        "حماية الشريعة",
+        "الوسطية والاعتدال"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q6",
+      "section": 5,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 107,
+      "answerPage": 124,
+      "items": 6,
+      "partsCovered": [
+        "صف العلم",
+        "صف الوحدانية",
+        "صف القدم",
+        "صف السميع",
+        "صف القادر",
+        "صف الإرادة"
+      ],
+      "unresolved": [
+        "صفوف العلم والإرادة موسومة بالمعنوية والقادر بالمعاني خلاف التقسيم المعروف، مع تداخل عمود واجبة مع بقية الأعمدة. وثق موضع علامة كل صف وتبين التصنيف الصحيح في الشرح؛ يحتاج الجدول تصحيحا علميا."
+      ]
+    },
+    {
+      "parentId": "s5-q7",
+      "section": 5,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 107,
+      "answerPage": 124,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q8",
+      "section": 5,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 108,
+      "answerPage": 125,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q9",
+      "section": 5,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 108,
+      "answerPage": 125,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q10",
+      "section": 5,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 108,
+      "answerPage": 125,
+      "items": 2,
+      "partsCovered": [
+        "حجية خبر الآحاد",
+        "التمييز بين العقيدة والمذهب"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q11",
+      "section": 5,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 109,
+      "answerPage": 126,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q12",
+      "section": 5,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 109,
+      "answerPage": 126,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q13",
+      "section": 5,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 109,
+      "answerPage": 126,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q14",
+      "section": 5,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 109,
+      "answerPage": 126,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q15",
+      "section": 5,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 109,
+      "answerPage": 126,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q16",
+      "section": 5,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 110,
+      "answerPage": 127,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q17",
+      "section": 5,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 110,
+      "answerPage": 127,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح ج ينسب خلق الأفعال للعباد خلاف تقرير الكسب في س٥-س٤٦، وأ وب صحيحتان في المذهب. تحتاج الإجابة مراجعة لا اختيارا يقينيا."
+      ]
+    },
+    {
+      "parentId": "s5-q18",
+      "section": 5,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 110,
+      "answerPage": 127,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "البديل ب عن الصفات الزائدة على الذات يحتمل اصطلاحا صحيحا عند الأشاعرة؛ المصدر اختار د دون تعليل لاستبعاد ب."
+      ]
+    },
+    {
+      "parentId": "s5-q19",
+      "section": 5,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 110,
+      "answerPage": 127,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q20",
+      "section": 5,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 111,
+      "answerPage": 128,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q21",
+      "section": 5,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 111,
+      "answerPage": 128,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q22",
+      "section": 5,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 111,
+      "answerPage": 128,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q23",
+      "section": 5,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 111,
+      "answerPage": 128,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q24",
+      "section": 5,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 112,
+      "answerPage": 129,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q25",
+      "section": 5,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 112,
+      "answerPage": 129,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q26",
+      "section": 5,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 112,
+      "answerPage": 129,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q27",
+      "section": 5,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 113,
+      "answerPage": 130,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q28",
+      "section": 5,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 113,
+      "answerPage": 130,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q29",
+      "section": 5,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 113,
+      "answerPage": 130,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q30",
+      "section": 5,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 114,
+      "answerPage": 131,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q31",
+      "section": 5,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 114,
+      "answerPage": 131,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q32",
+      "section": 5,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 114,
+      "answerPage": 131,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q33",
+      "section": 5,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 115,
+      "answerPage": 132,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q34",
+      "section": 5,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 115,
+      "answerPage": 132,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح هـ يناقض صحة ب في الصفات المعنوية، ولا يوجد تعليل يرفع هذا التعارض."
+      ]
+    },
+    {
+      "parentId": "s5-q35",
+      "section": 5,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 115,
+      "answerPage": 132,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q36",
+      "section": 5,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 115,
+      "answerPage": 132,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q37",
+      "section": 5,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 116,
+      "answerPage": 133,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "إجمال الحسن والقبح العقليين لا يستبعد الماتريدية مطلقا؛ يحتاج السؤال تقييد مراد المعتزلة ليفرد أ."
+      ]
+    },
+    {
+      "parentId": "s5-q38",
+      "section": 5,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 116,
+      "answerPage": 133,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المصدر اختار هـ مع قابلية ب للصحة في تعريف إيمان المعتزلة وإدخال العمل وترك الكبائر. لا تعليل في التصحيح يقطع الاستبعاد."
+      ]
+    },
+    {
+      "parentId": "s5-q39",
+      "section": 5,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 116,
+      "answerPage": 133,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q40",
+      "section": 5,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 116,
+      "answerPage": 133,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q41",
+      "section": 5,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 117,
+      "answerPage": 134,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "«العمل شرط الإيمان» (أ) قريب من «لا إيمان بدون عمل» (د)، ولا يوضح المصدر اصطلاح الشرط أو تفصيل جنس العمل؛ أبقي د مع التحفظ."
+      ]
+    },
+    {
+      "parentId": "s5-q42",
+      "section": 5,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 117,
+      "answerPage": 134,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q43",
+      "section": 5,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 117,
+      "answerPage": 134,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q44",
+      "section": 5,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 118,
+      "answerPage": 135,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q45",
+      "section": 5,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 118,
+      "answerPage": 135,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "تقرير تقديم العقل عند المتأخرين مجمل وخلافي، ويحتاج تقييدا ليتسق مع نفي تقديمه بإطلاق في السؤال ٤٧."
+      ]
+    },
+    {
+      "parentId": "s5-q46",
+      "section": 5,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 118,
+      "answerPage": 135,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q47",
+      "section": 5,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 119,
+      "answerPage": 136,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q48",
+      "section": 5,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 119,
+      "answerPage": 136,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q49",
+      "section": 5,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 119,
+      "answerPage": 136,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q50",
+      "section": 5,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 119,
+      "answerPage": 136,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q51",
+      "section": 5,
+      "originalNumber": 51,
+      "occurrence": 1,
+      "page": 120,
+      "answerPage": 137,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q52",
+      "section": 5,
+      "originalNumber": 52,
+      "occurrence": 1,
+      "page": 120,
+      "answerPage": 137,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q53",
+      "section": 5,
+      "originalNumber": 53,
+      "occurrence": 1,
+      "page": 120,
+      "answerPage": 137,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s5-q54",
+      "section": 5,
+      "originalNumber": 54,
+      "occurrence": 1,
+      "page": 121,
+      "answerPage": 138,
+      "items": 4,
+      "partsCovered": [
+        "التوحيد والمقاصد العليا",
+        "التربية المكية على التوحيد",
+        "تكوين الجيل القرآني ونبذ الجاهلية",
+        "صفاء التلقي واستقرار التوحيد"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q1",
+      "section": 6,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 140,
+      "answerPage": 162,
+      "items": 7,
+      "partsCovered": [
+        "الفرع أ — تعريف المعضل",
+        "الفرع ب — تعريف المعلق",
+        "الفرع ب — معلقات البخاري بصيغة الجزم",
+        "الفرع ب — معلقات البخاري بصيغة التمريض",
+        "الفرع ج — التخريج باعتبار الصحابي والكتاب والمؤلف",
+        "الفرع ج — الجامع الصغير: طريقة التخريج والمؤلف",
+        "الفرع ج — بلوغ المرام: المؤلف وطريقة التخريج"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q2",
+      "section": 6,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 140,
+      "answerPage": 162,
+      "items": 4,
+      "partsCovered": [
+        "الفرع أ — دفع الإشكال بالمشافهة",
+        "الفرع أ — القرائن التعبيرية",
+        "الفرع ب — طريقة تصنيف المسانيد",
+        "الفرع ج — شروط الصحة الخاصة بالسند"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q3",
+      "section": 6,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 141,
+      "answerPage": 163,
+      "items": 2,
+      "partsCovered": [
+        "الفرع ج — دعم الحسن بالضعيف",
+        "الفرع د — الرواية بالمعنى"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q4",
+      "section": 6,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 141,
+      "answerPage": 163,
+      "items": 8,
+      "partsCovered": [
+        "الصف 1 — صحيح البخاري",
+        "الصف 2 — صحيح مسلم",
+        "الصف 3 — سنن الدارقطني",
+        "الصف 4 — سنن ابن ماجة",
+        "الصف 5 — مسند الإمام أحمد",
+        "الصف 6 — سنن الترمذي",
+        "الصف 7 — سنن النسائي",
+        "الصف 8 — سنن أبي داود"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q5",
+      "section": 6,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 141,
+      "answerPage": 163,
+      "items": 5,
+      "partsCovered": [
+        "أ — ترتيب الكتب الستة",
+        "ب — ترتيب المسانيد",
+        "ج — الضعيف والاختلاق",
+        "د — الموضوع واختلال الشروط",
+        "هـ — المتابعة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q6",
+      "section": 6,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 142,
+      "answerPage": 164,
+      "items": 2,
+      "partsCovered": [
+        "المفهوم الأول — السنة عند المحدثين",
+        "المفهوم الثاني — السند"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q7",
+      "section": 6,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 142,
+      "answerPage": 164,
+      "items": 4,
+      "partsCovered": [
+        "الأثر الأول — ضبط أهلية الدراسة",
+        "الأثر الثاني — صيانة السنة",
+        "الأثر الثالث — التأليف",
+        "الأثر الرابع — الحفظ والفهم والعمل"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q8",
+      "section": 6,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 142,
+      "answerPage": 164,
+      "items": 4,
+      "partsCovered": [
+        "الصف الأول — نوع الحديث وتعريف المرفوع",
+        "الصف الأول — مثال المرفوع",
+        "الصف الثاني — نوع الحديث وتعريف المقطوع",
+        "الصف الثاني — مثال المقطوع"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q9",
+      "section": 6,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 142,
+      "answerPage": 165,
+      "items": 1,
+      "partsCovered": [
+        "ذكر نوعين من المردود بسبب السقط"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q10",
+      "section": 6,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 143,
+      "answerPage": 165,
+      "items": 2,
+      "partsCovered": [
+        "الفرع أ — تتمة حديث قول الزور",
+        "الفرع ب — تتمة حديث الطهارة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q11",
+      "section": 6,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 143,
+      "answerPage": 165,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q12",
+      "section": 6,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 143,
+      "answerPage": 165,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q13",
+      "section": 6,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 143,
+      "answerPage": 166,
+      "items": 4,
+      "partsCovered": [
+        "أ — تقييد المطلق",
+        "ب — الرواية بالمعنى",
+        "ج — تأسيس الأحكام",
+        "د — التعارض الظاهر"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q14",
+      "section": 6,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 144,
+      "answerPage": 166,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q15",
+      "section": 6,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 144,
+      "answerPage": 166,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q16",
+      "section": 6,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 144,
+      "answerPage": 167,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q17",
+      "section": 6,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 145,
+      "answerPage": 167,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q18",
+      "section": 6,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 145,
+      "answerPage": 167,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q19",
+      "section": 6,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 145,
+      "answerPage": 167,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q20",
+      "section": 6,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 145,
+      "answerPage": 168,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q21",
+      "section": 6,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 146,
+      "answerPage": 168,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q22",
+      "section": 6,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 146,
+      "answerPage": 168,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q23",
+      "section": 6,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 146,
+      "answerPage": 168,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q24",
+      "section": 6,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 146,
+      "answerPage": 169,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q25",
+      "section": 6,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 147,
+      "answerPage": 169,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q26",
+      "section": 6,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 147,
+      "answerPage": 169,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q27",
+      "section": 6,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 147,
+      "answerPage": 169,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q28",
+      "section": 6,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 147,
+      "answerPage": 170,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q29",
+      "section": 6,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 148,
+      "answerPage": 170,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q30",
+      "section": 6,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 148,
+      "answerPage": 170,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q31",
+      "section": 6,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 148,
+      "answerPage": 170,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q32",
+      "section": 6,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 148,
+      "answerPage": 171,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q33",
+      "section": 6,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 149,
+      "answerPage": 171,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q34",
+      "section": 6,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 149,
+      "answerPage": 171,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q35",
+      "section": 6,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 149,
+      "answerPage": 171,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q36",
+      "section": 6,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 149,
+      "answerPage": 172,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q37",
+      "section": 6,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 150,
+      "answerPage": 172,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q38",
+      "section": 6,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 150,
+      "answerPage": 172,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q39",
+      "section": 6,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 150,
+      "answerPage": 172,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q40",
+      "section": 6,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 150,
+      "answerPage": 173,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q41",
+      "section": 6,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 151,
+      "answerPage": 173,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q42",
+      "section": 6,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 151,
+      "answerPage": 173,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح ب ثابت في الصورة لكنه ينسب للجمهور رد التعديل غير المفسر، خلاف المشهور؛ لم يعلل المصدر اختياره. حفظ المفتاح باعتباره اختيار المصدر لا حكما علميا نهائيا."
+      ]
+    },
+    {
+      "parentId": "s6-q43",
+      "section": 6,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 151,
+      "answerPage": 173,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q44",
+      "section": 6,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 151,
+      "answerPage": 173,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q45",
+      "section": 6,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 152,
+      "answerPage": 174,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q46",
+      "section": 6,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 152,
+      "answerPage": 174,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q47",
+      "section": 6,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 152,
+      "answerPage": 174,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q48",
+      "section": 6,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 152,
+      "answerPage": 174,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q49",
+      "section": 6,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 152,
+      "answerPage": 175,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q50",
+      "section": 6,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 153,
+      "answerPage": 175,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q51",
+      "section": 6,
+      "originalNumber": 51,
+      "occurrence": 1,
+      "page": 153,
+      "answerPage": 175,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q52",
+      "section": 6,
+      "originalNumber": 52,
+      "occurrence": 1,
+      "page": 154,
+      "answerPage": 176,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q53",
+      "section": 6,
+      "originalNumber": 53,
+      "occurrence": 1,
+      "page": 154,
+      "answerPage": 176,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q54",
+      "section": 6,
+      "originalNumber": 54,
+      "occurrence": 1,
+      "page": 154,
+      "answerPage": 176,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q55",
+      "section": 6,
+      "originalNumber": 55,
+      "occurrence": 1,
+      "page": 155,
+      "answerPage": 177,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q56",
+      "section": 6,
+      "originalNumber": 56,
+      "occurrence": 1,
+      "page": 155,
+      "answerPage": 177,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المصدر يؤشر د دون تعليل، مع أن د يبدل تحقق العز بالبحث عنه، وأ وج يحتملان جوانب من المعنى. لم يحسم البديل الأنسب علميا؛ السؤال مصوغ عن مفتاح المصدر مع تحفظ."
+      ]
+    },
+    {
+      "parentId": "s6-q57",
+      "section": 6,
+      "originalNumber": 57,
+      "occurrence": 1,
+      "page": 155,
+      "answerPage": 177,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q58",
+      "section": 6,
+      "originalNumber": 58,
+      "occurrence": 1,
+      "page": 155,
+      "answerPage": 177,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q59",
+      "section": 6,
+      "originalNumber": 59,
+      "occurrence": 1,
+      "page": 156,
+      "answerPage": 178,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q60",
+      "section": 6,
+      "originalNumber": 60,
+      "occurrence": 1,
+      "page": 156,
+      "answerPage": 178,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q61",
+      "section": 6,
+      "originalNumber": 61,
+      "occurrence": 1,
+      "page": 156,
+      "answerPage": 178,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q62",
+      "section": 6,
+      "originalNumber": 62,
+      "occurrence": 1,
+      "page": 156,
+      "answerPage": 178,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q63",
+      "section": 6,
+      "originalNumber": 63,
+      "occurrence": 1,
+      "page": 157,
+      "answerPage": 179,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q64",
+      "section": 6,
+      "originalNumber": 64,
+      "occurrence": 1,
+      "page": 157,
+      "answerPage": 179,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q65",
+      "section": 6,
+      "originalNumber": 65,
+      "occurrence": 1,
+      "page": 157,
+      "answerPage": 179,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q66",
+      "section": 6,
+      "originalNumber": 66,
+      "occurrence": 1,
+      "page": 157,
+      "answerPage": 179,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح هـ بلا تعليل، مع تداخل وصف المكثر والوفاة بعد الستين مع أبي سعيد الخدري؛ لا يصرح المصدر بالصحابي المقصود ولا يبرر استبعاده."
+      ]
+    },
+    {
+      "parentId": "s6-q67",
+      "section": 6,
+      "originalNumber": 67,
+      "occurrence": 1,
+      "page": 158,
+      "answerPage": 180,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q68",
+      "section": 6,
+      "originalNumber": 68,
+      "occurrence": 1,
+      "page": 158,
+      "answerPage": 180,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q69",
+      "section": 6,
+      "originalNumber": 69,
+      "occurrence": 1,
+      "page": 158,
+      "answerPage": 180,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q70",
+      "section": 6,
+      "originalNumber": 70,
+      "occurrence": 1,
+      "page": 158,
+      "answerPage": 180,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q71",
+      "section": 6,
+      "originalNumber": 71,
+      "occurrence": 1,
+      "page": 159,
+      "answerPage": 181,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q72",
+      "section": 6,
+      "originalNumber": 72,
+      "occurrence": 1,
+      "page": 159,
+      "answerPage": 181,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q73",
+      "section": 6,
+      "originalNumber": 73,
+      "occurrence": 1,
+      "page": 160,
+      "answerPage": 182,
+      "items": 5,
+      "partsCovered": [
+        "المناقشة — شمول القرآن وأحكام السنة",
+        "المناقشة — حقيقة الخلاف في التسمية",
+        "المثال الأول — الرضاع",
+        "المثال الثاني — الشاهد واليمين",
+        "المثال الثالث — الجمع بين المرأة وعمتها"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s6-q74",
+      "section": 6,
+      "originalNumber": 74,
+      "occurrence": 1,
+      "page": 160,
+      "answerPage": 182,
+      "items": 1,
+      "partsCovered": [
+        "الفرع ج — أول جامع للحديث والأثر ومخالفة المفتاح الرسمي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q1",
+      "section": 7,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 184,
+      "answerPage": 207,
+      "items": 4,
+      "partsCovered": [
+        "أ — البلوغ",
+        "ب — إمساك الصائم",
+        "ج — استطاعة الحج",
+        "د — صيغة النكاح"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q2",
+      "section": 7,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 184,
+      "answerPage": 207,
+      "items": 3,
+      "partsCovered": [
+        "أ — قطع صوم التطوع",
+        "ب — السواك",
+        "ج — الحقن"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q3",
+      "section": 7,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 184,
+      "answerPage": 207,
+      "items": 2,
+      "partsCovered": [
+        "الدليل ودلالته",
+        "تطبيق الائتمام"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q4",
+      "section": 7,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 184,
+      "answerPage": 207,
+      "items": 5,
+      "partsCovered": [
+        "أ — الوقوف بعرفة",
+        "ب — الطواف",
+        "ج — فدية المريض",
+        "د — مجال النسخ",
+        "هـ — تأخر الناسخ"
+      ],
+      "unresolved": [
+        "الصف ج: وضع التصحيح علامة الخطأ أمام سقوط الفدية عن المريض المرجو شفاؤه، دون تعليل؛ تعارضه مع وجوب القضاء دون فدية لم يحسم من المصدر."
+      ]
+    },
+    {
+      "parentId": "s7-q5",
+      "section": 7,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 185,
+      "answerPage": 208,
+      "items": 3,
+      "partsCovered": [
+        "أ — تسمية التراويح",
+        "ب — جمع عمر الناس",
+        "ج — إمام التراويح"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q6",
+      "section": 7,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 185,
+      "answerPage": 208,
+      "items": 7,
+      "partsCovered": [
+        "أ — الوصية للزوج",
+        "ب1 — فرض الزوج",
+        "ب2 — الأخوات لأب",
+        "ب3 — الأخ لأم",
+        "ب4 — العم الشقيق",
+        "ب5 — العم لأب",
+        "ب6 — إتمام الفريضة والعول"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q7",
+      "section": 7,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 185,
+      "answerPage": 209,
+      "items": 6,
+      "partsCovered": [
+        "الزوجة الرجعية ونصيبها",
+        "نصيب الأم",
+        "نصيب البنات",
+        "الأخ والأخت الشقيقان",
+        "الوصية الخيرية",
+        "إتمام توزيع الباقي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q8",
+      "section": 7,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 186,
+      "answerPage": 209,
+      "items": 5,
+      "partsCovered": [
+        "ترتيب الحقوق العينية المتعلقة بالتركة",
+        "ترتيب مؤنة تجهيز الميت",
+        "ترتيب الديون",
+        "ترتيب الوصايا",
+        "ترتيب حقوق الورثة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q9",
+      "section": 7,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 186,
+      "answerPage": 209,
+      "items": 6,
+      "partsCovered": [
+        "أ — البلوغ للصلاة",
+        "ب — القبلة",
+        "ج — إسلام الصائم",
+        "د — القدرة على الصوم",
+        "هـ — الحول",
+        "و — الملك التام"
+      ],
+      "unresolved": [
+        "الصف د: تصنيف القدرة على الصيام شرط صحة في الجدول مشكل، ولم يقدم المصدر تعليلا يرفع التعارض مع كونها متعلقة بوجوب الأداء."
+      ]
+    },
+    {
+      "parentId": "s7-q10",
+      "section": 7,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 186,
+      "answerPage": 210,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q11",
+      "section": 7,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 186,
+      "answerPage": 210,
+      "items": 5,
+      "partsCovered": [
+        "أ — الصيغة",
+        "ب — الإشهاد",
+        "ج — الأهلية",
+        "د — المهر",
+        "هـ — موافقة النائب الشرعي للقاصر"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q12",
+      "section": 7,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 187,
+      "answerPage": 210,
+      "items": 4,
+      "partsCovered": [
+        "أ — صلاة ركعتي الفجر",
+        "ب — صيام يوم عاشوراء",
+        "ج — صلاة الشفع والوتر",
+        "د — صلاة ركعتين قبل العصر"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q13",
+      "section": 7,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 187,
+      "answerPage": 210,
+      "items": 5,
+      "partsCovered": [
+        "المسألة 1",
+        "المسألة 2",
+        "المسألة 3",
+        "المسألة 4",
+        "المسألة 5"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q14",
+      "section": 7,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 187,
+      "answerPage": 211,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q15",
+      "section": 7,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 188,
+      "answerPage": 211,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q16",
+      "section": 7,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 188,
+      "answerPage": 211,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q17",
+      "section": 7,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 188,
+      "answerPage": 211,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح C لا يكفي لتحديد التعصيب فقط؛ لم يذكر السؤال انتفاء الفرع الأنثى، ولا يتيح خيارا تاما يجمع انتفاء الفروع مطلقا."
+      ]
+    },
+    {
+      "parentId": "s7-q18",
+      "section": 7,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 188,
+      "answerPage": 212,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q19",
+      "section": 7,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 189,
+      "answerPage": 212,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q20",
+      "section": 7,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 189,
+      "answerPage": 212,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q21",
+      "section": 7,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 189,
+      "answerPage": 212,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q22",
+      "section": 7,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 189,
+      "answerPage": 213,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q23",
+      "section": 7,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 189,
+      "answerPage": 213,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q24",
+      "section": 7,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 190,
+      "answerPage": 213,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q25",
+      "section": 7,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 190,
+      "answerPage": 213,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q26",
+      "section": 7,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 190,
+      "answerPage": 213,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q27",
+      "section": 7,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 190,
+      "answerPage": 214,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q28",
+      "section": 7,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 190,
+      "answerPage": 214,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q29",
+      "section": 7,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 191,
+      "answerPage": 214,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q30",
+      "section": 7,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 191,
+      "answerPage": 214,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q31",
+      "section": 7,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 191,
+      "answerPage": 214,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q32",
+      "section": 7,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 191,
+      "answerPage": 215,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q33",
+      "section": 7,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 192,
+      "answerPage": 215,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q34",
+      "section": 7,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 192,
+      "answerPage": 215,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q35",
+      "section": 7,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 192,
+      "answerPage": 215,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q36",
+      "section": 7,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 192,
+      "answerPage": 215,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح D يعارض قاعدة المصاهرة التي تجعل الدخول بالأم شرطا لتحريم بنتها؛ لا يوجد في المصدر تعليل يفسر استبعاد C."
+      ]
+    },
+    {
+      "parentId": "s7-q37",
+      "section": 7,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 193,
+      "answerPage": 216,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q38",
+      "section": 7,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 193,
+      "answerPage": 216,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q39",
+      "section": 7,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 193,
+      "answerPage": 216,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q40",
+      "section": 7,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 193,
+      "answerPage": 216,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "البديلان B وC قريبان من D في وصف المرابحة للآمر بالشراء، ولم يبرر المصدر انفراد D بالصحة."
+      ]
+    },
+    {
+      "parentId": "s7-q41",
+      "section": 7,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 193,
+      "answerPage": 217,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q42",
+      "section": 7,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 194,
+      "answerPage": 217,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q43",
+      "section": 7,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 194,
+      "answerPage": 217,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q44",
+      "section": 7,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 194,
+      "answerPage": 217,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q45",
+      "section": 7,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 194,
+      "answerPage": 218,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q46",
+      "section": 7,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 195,
+      "answerPage": 218,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q47",
+      "section": 7,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 195,
+      "answerPage": 218,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q48",
+      "section": 7,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 195,
+      "answerPage": 218,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q49",
+      "section": 7,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 195,
+      "answerPage": 219,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q50",
+      "section": 7,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 196,
+      "answerPage": 219,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q51",
+      "section": 7,
+      "originalNumber": 51,
+      "occurrence": 1,
+      "page": 196,
+      "answerPage": 219,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q52",
+      "section": 7,
+      "originalNumber": 52,
+      "occurrence": 1,
+      "page": 196,
+      "answerPage": 220,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q53",
+      "section": 7,
+      "originalNumber": 53,
+      "occurrence": 1,
+      "page": 196,
+      "answerPage": 220,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q54",
+      "section": 7,
+      "originalNumber": 54,
+      "occurrence": 1,
+      "page": 197,
+      "answerPage": 220,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q55",
+      "section": 7,
+      "originalNumber": 55,
+      "occurrence": 1,
+      "page": 197,
+      "answerPage": 220,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "البديل C يتضمن معلومية الربح، ولم يفسر المصدر سبب رفضه مع اختيار شرط الملك الحقيقي في A؛ ليس التعارض بينهما حاسما."
+      ]
+    },
+    {
+      "parentId": "s7-q56",
+      "section": 7,
+      "originalNumber": 56,
+      "occurrence": 1,
+      "page": 197,
+      "answerPage": 221,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q57",
+      "section": 7,
+      "originalNumber": 57,
+      "occurrence": 1,
+      "page": 197,
+      "answerPage": 221,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q58",
+      "section": 7,
+      "originalNumber": 58,
+      "occurrence": 1,
+      "page": 198,
+      "answerPage": 221,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المفتاح B مشكل في المذهب المالكي إذا حصل الدخول بالمعتدة، بينما D يقرر فسخ العقد؛ لا يفسر المصدر اختياره."
+      ]
+    },
+    {
+      "parentId": "s7-q59",
+      "section": 7,
+      "originalNumber": 59,
+      "occurrence": 1,
+      "page": 198,
+      "answerPage": 221,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q60",
+      "section": 7,
+      "originalNumber": 60,
+      "occurrence": 1,
+      "page": 198,
+      "answerPage": 222,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "لا يصرح النص بالدلك والفور، كما تتداخل عبارتا A وC؛ عين المصدر C دون إزالة هذا الاحتمال."
+      ]
+    },
+    {
+      "parentId": "s7-q61",
+      "section": 7,
+      "originalNumber": 61,
+      "occurrence": 1,
+      "page": 198,
+      "answerPage": 222,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "المصدر لا يبين فاصلا اصطلاحيا بين فضائل الوضوء B ومستحباته D يبرر تخطئة أحدهما."
+      ]
+    },
+    {
+      "parentId": "s7-q62",
+      "section": 7,
+      "originalNumber": 62,
+      "occurrence": 1,
+      "page": 199,
+      "answerPage": 222,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "لم يحسم سبب رفض D، وهو تفسير الاجتماع على إناء واحد، مع اختيار المصدر E دون شرح."
+      ]
+    },
+    {
+      "parentId": "s7-q63",
+      "section": 7,
+      "originalNumber": 63,
+      "occurrence": 1,
+      "page": 199,
+      "answerPage": 222,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q64",
+      "section": 7,
+      "originalNumber": 64,
+      "occurrence": 1,
+      "page": 199,
+      "answerPage": 223,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q65",
+      "section": 7,
+      "originalNumber": 65,
+      "occurrence": 1,
+      "page": 200,
+      "answerPage": 223,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q66",
+      "section": 7,
+      "originalNumber": 66,
+      "occurrence": 1,
+      "page": 200,
+      "answerPage": 223,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "لحظة تذكر الركوع بالنسبة إلى عقد الركعة التالية غير محددة؛ لا يمكن تعميم إلغاء الركعة على كل صور التذكر."
+      ]
+    },
+    {
+      "parentId": "s7-q67",
+      "section": 7,
+      "originalNumber": 67,
+      "occurrence": 1,
+      "page": 200,
+      "answerPage": 224,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q68",
+      "section": 7,
+      "originalNumber": 68,
+      "occurrence": 1,
+      "page": 201,
+      "answerPage": 224,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q69",
+      "section": 7,
+      "originalNumber": 69,
+      "occurrence": 1,
+      "page": 201,
+      "answerPage": 224,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q70",
+      "section": 7,
+      "originalNumber": 70,
+      "occurrence": 1,
+      "page": 201,
+      "answerPage": 225,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q71",
+      "section": 7,
+      "originalNumber": 71,
+      "occurrence": 1,
+      "page": 202,
+      "answerPage": 225,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q72",
+      "section": 7,
+      "originalNumber": 72,
+      "occurrence": 1,
+      "page": 202,
+      "answerPage": 225,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q73",
+      "section": 7,
+      "originalNumber": 73,
+      "occurrence": 1,
+      "page": 202,
+      "answerPage": 225,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q74",
+      "section": 7,
+      "originalNumber": 74,
+      "occurrence": 1,
+      "page": 203,
+      "answerPage": 226,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q75",
+      "section": 7,
+      "originalNumber": 75,
+      "occurrence": 1,
+      "page": 203,
+      "answerPage": 226,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "B وD يتداخلان في تعريف الطلاق السني؛ لم يقدم المصدر تعليلا يجعل D خاطئا، رغم أنه يذكر صورة صحيحة."
+      ]
+    },
+    {
+      "parentId": "s7-q76",
+      "section": 7,
+      "originalNumber": 76,
+      "occurrence": 1,
+      "page": 203,
+      "answerPage": 226,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q77",
+      "section": 7,
+      "originalNumber": 77,
+      "occurrence": 1,
+      "page": 203,
+      "answerPage": 226,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q78",
+      "section": 7,
+      "originalNumber": 78,
+      "occurrence": 1,
+      "page": 204,
+      "answerPage": 227,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q79",
+      "section": 7,
+      "originalNumber": 79,
+      "occurrence": 1,
+      "page": 204,
+      "answerPage": 227,
+      "items": 10,
+      "partsCovered": [
+        "أ1 — وسائل الإثبات",
+        "أ2 — مقاصد الإثبات",
+        "ب1 — حكم الإمساك للإضرار",
+        "ب2 — مقصد منع الضرر",
+        "ج1 — الطلاق السني",
+        "ج2 — الطلاق البدعي",
+        "د1 — لفظ العدة",
+        "د2 — عدة الحائض",
+        "د3 — عدة الحامل",
+        "د4 — عدة غير الحائض"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q80",
+      "section": 7,
+      "originalNumber": 80,
+      "occurrence": 1,
+      "page": 205,
+      "answerPage": 228,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q81",
+      "section": 7,
+      "originalNumber": 81,
+      "occurrence": 1,
+      "page": 205,
+      "answerPage": 228,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s7-q82",
+      "section": 7,
+      "originalNumber": 82,
+      "occurrence": 1,
+      "page": 205,
+      "answerPage": 228,
+      "items": 2,
+      "partsCovered": [
+        "المثال — تنوع المخرج في زكاة الفطر",
+        "ضابط المثال — المتغير والثابت"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q1",
+      "section": 8,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 230,
+      "answerPage": 254,
+      "items": 2,
+      "partsCovered": [
+        "الضابط",
+        "المثال التطبيقي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q2",
+      "section": 8,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 230,
+      "answerPage": 254,
+      "items": 4,
+      "partsCovered": [
+        "أ — العلاقة بين القياس والاجتهاد",
+        "ب — تخريج المناط",
+        "ب — تنقيح المناط",
+        "ب — تحقيق المناط"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q3",
+      "section": 8,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 231,
+      "answerPage": 254,
+      "items": 1,
+      "partsCovered": [
+        "د — أول من ألف في الأصول"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q4",
+      "section": 8,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 231,
+      "answerPage": 255,
+      "items": 8,
+      "partsCovered": [
+        "الصف الظاهر — التعريف",
+        "الصف النص — التعريف",
+        "الصف المفسر — التعريف",
+        "الصف المحكم — التعريف",
+        "الصف الظاهر — المثال",
+        "الصف النص — المثال",
+        "الصف المفسر — المثال",
+        "الصف المحكم — المثال"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q5",
+      "section": 8,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 231,
+      "answerPage": 255,
+      "items": 2,
+      "partsCovered": [
+        "تعريف القياس",
+        "أهمية القياس في المستجدات"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q6",
+      "section": 8,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 232,
+      "answerPage": 256,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q7",
+      "section": 8,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 232,
+      "answerPage": 256,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q8",
+      "section": 8,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 232,
+      "answerPage": 256,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q9",
+      "section": 8,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 233,
+      "answerPage": 257,
+      "items": 5,
+      "partsCovered": [
+        "التعريف أ",
+        "التعريف ب",
+        "التعريف ج",
+        "التعريف د",
+        "التعريف هـ"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q10",
+      "section": 8,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 233,
+      "answerPage": 257,
+      "items": 4,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q11",
+      "section": 8,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 233,
+      "answerPage": 257,
+      "items": 1,
+      "partsCovered": [
+        "معنى التمييز بين مقامات الخطاب"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q12",
+      "section": 8,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 234,
+      "answerPage": 258,
+      "items": 5,
+      "partsCovered": [
+        "التعريف أ",
+        "التعريف ب",
+        "التعريف ج",
+        "التعريف د الأولى",
+        "التعريف د الثانية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q13",
+      "section": 8,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 234,
+      "answerPage": 258,
+      "items": 4,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q14",
+      "section": 8,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 234,
+      "answerPage": 258,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "لم يحسم خطأ المفتاح المطبوع: اختير ج مع أنه مفهوم الموافقة، والتعريف الموافق لمفهوم المخالفة هو د."
+      ]
+    },
+    {
+      "parentId": "s8-q15",
+      "section": 8,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 235,
+      "answerPage": 259,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q16",
+      "section": 8,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 235,
+      "answerPage": 259,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q17",
+      "section": 8,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 235,
+      "answerPage": 259,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q18",
+      "section": 8,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 235,
+      "answerPage": 259,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q19",
+      "section": 8,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 236,
+      "answerPage": 260,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q20",
+      "section": 8,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 236,
+      "answerPage": 260,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "مفتاح العبارة الأولى في اقتضاء الأمر والنهي يحتاج تحريرا؛ لا يقدم المصدر تعليلا لاستبعاد العبارات الأخرى."
+      ]
+    },
+    {
+      "parentId": "s8-q21",
+      "section": 8,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 236,
+      "answerPage": 260,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "اختار المصدر ج لاتفاق مادة العلمين دون تعليل؛ وهو مخالف للتمييز المعروف بين موضوع المنطق وموضوع أصول الفقه."
+      ]
+    },
+    {
+      "parentId": "s8-q22",
+      "section": 8,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 236,
+      "answerPage": 260,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q23",
+      "section": 8,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 237,
+      "answerPage": 261,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q24",
+      "section": 8,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 237,
+      "answerPage": 261,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q25",
+      "section": 8,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 237,
+      "answerPage": 261,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q26",
+      "section": 8,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 237,
+      "answerPage": 261,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q27",
+      "section": 8,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 238,
+      "answerPage": 262,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q28",
+      "section": 8,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 238,
+      "answerPage": 262,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q29",
+      "section": 8,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 238,
+      "answerPage": 262,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q30",
+      "section": 8,
+      "originalNumber": 29,
+      "occurrence": 2,
+      "page": 238,
+      "answerPage": 262,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q31",
+      "section": 8,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 239,
+      "answerPage": 263,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q32",
+      "section": 8,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 239,
+      "answerPage": 263,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q33",
+      "section": 8,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 239,
+      "answerPage": 263,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q34",
+      "section": 8,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 239,
+      "answerPage": 263,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q35",
+      "section": 8,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 239,
+      "answerPage": 263,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q36",
+      "section": 8,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 240,
+      "answerPage": 264,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q37",
+      "section": 8,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 240,
+      "answerPage": 264,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q38",
+      "section": 8,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 240,
+      "answerPage": 264,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "مفتاح PDF هو د، لكنه يعكس الفرق بين الفتوى والاجتهاد؛ البديل ب صحيح من جهة المعنى. لا يوجد تصويب من المؤلف يحسم الخلل."
+      ]
+    },
+    {
+      "parentId": "s8-q39",
+      "section": 8,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 241,
+      "answerPage": 265,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q40",
+      "section": 8,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 241,
+      "answerPage": 265,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q41",
+      "section": 8,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 241,
+      "answerPage": 265,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q42",
+      "section": 8,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 241,
+      "answerPage": 265,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q43",
+      "section": 8,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 242,
+      "answerPage": 266,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q44",
+      "section": 8,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 242,
+      "answerPage": 266,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q45",
+      "section": 8,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 242,
+      "answerPage": 266,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q46",
+      "section": 8,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 243,
+      "answerPage": 266,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q47",
+      "section": 8,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 243,
+      "answerPage": 267,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q48",
+      "section": 8,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 243,
+      "answerPage": 267,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q49",
+      "section": 8,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 244,
+      "answerPage": 267,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q50",
+      "section": 8,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 244,
+      "answerPage": 268,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q51",
+      "section": 8,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 244,
+      "answerPage": 268,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q52",
+      "section": 8,
+      "originalNumber": 51,
+      "occurrence": 1,
+      "page": 245,
+      "answerPage": 268,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q53",
+      "section": 8,
+      "originalNumber": 52,
+      "occurrence": 1,
+      "page": 245,
+      "answerPage": 269,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q54",
+      "section": 8,
+      "originalNumber": 53,
+      "occurrence": 1,
+      "page": 245,
+      "answerPage": 269,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "السؤال يطلب أصلا من أصول المالكية والمفتاح ب يختار ترك مفهوم المخالفة؛ يبدو النفي ساقطا من السؤال ولا يمكن الجزم بذلك."
+      ]
+    },
+    {
+      "parentId": "s8-q55",
+      "section": 8,
+      "originalNumber": 54,
+      "occurrence": 1,
+      "page": 246,
+      "answerPage": 269,
+      "items": 3,
+      "partsCovered": [
+        "مضمون الفقرة",
+        "الرأي وأثر العلاقة في المجال العقدي",
+        "أثر العلاقة في المعاملات"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q56",
+      "section": 8,
+      "originalNumber": 55,
+      "occurrence": 1,
+      "page": 246,
+      "answerPage": 270,
+      "items": 9,
+      "partsCovered": [
+        "ضابط فقه الشرع",
+        "ضابط فقه الواقع",
+        "ضابط فقه التنزيل",
+        "ضابط التأصيل والاجتهاد",
+        "ضابط الثبات على العقيدة والثوابت",
+        "ضابط الأولويات والمصالح",
+        "ضابط الانفتاح والحوار",
+        "ضابط مراعاة الاختصاص",
+        "ضابط الموضوعية والمصداقية والحياد"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q57",
+      "section": 8,
+      "originalNumber": 56,
+      "occurrence": 1,
+      "page": 247,
+      "answerPage": 271,
+      "items": 14,
+      "partsCovered": [
+        "الصلاة — مقصد التربوية — البعد عن الفحشاء والمنكر",
+        "الصلاة — مقصد التربوية — مراقبة الله بإدامة ذكره",
+        "الصلاة — مقصد التربوية — تنمية روح المواظبة على أداء حقوق الآخرين",
+        "الصلاة — مقصد الاجتماعية — التعارف والتآلف بين المصلين",
+        "الصلاة — مقصد الاجتماعية — تفقد أحوال المسلمين",
+        "الصلاة — مقصد الاجتماعية — المساواة والتلاحم بين المصلين",
+        "الزكاة — مقصد التربوية — رفع معنوية المحتاج",
+        "الزكاة — مقصد التربوية — تطهير النفس من البخل والشح",
+        "الزكاة — مقصد التربوية — تربية النفس على البذل والسخاء",
+        "الزكاة — مقصد الاجتماعية — تحقيق التكافل الاجتماعي",
+        "الزكاة — مقصد الاجتماعية — تطهير المجتمع من الحقد والحسد",
+        "الزكاة — مقصد الاجتماعية — التقليل من الفقر والتسول",
+        "الصلاة — الدليل الشرعي",
+        "الزكاة — الدليل الشرعي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q58",
+      "section": 8,
+      "originalNumber": 57,
+      "occurrence": 1,
+      "page": 247,
+      "answerPage": 271,
+      "items": 5,
+      "partsCovered": [
+        "أ — تشريع الرخص",
+        "أ — الضرورة",
+        "أ — الطاقة",
+        "ب — قاعدة الحرج مرفوع",
+        "ب — قاعدة المشقة تجلب التيسير"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q59",
+      "section": 8,
+      "originalNumber": 58,
+      "occurrence": 1,
+      "page": 247,
+      "answerPage": 272,
+      "items": 4,
+      "partsCovered": [
+        "الصف الأول — دليل الضرورة",
+        "الصف الأول — مثال تقدير الضرورة",
+        "الصف الثاني — استنباط القاعدة",
+        "الصف الثاني — المثال"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q60",
+      "section": 8,
+      "originalNumber": 59,
+      "occurrence": 1,
+      "page": 248,
+      "answerPage": 272,
+      "items": 6,
+      "partsCovered": [
+        "الصف الأول — دليل الحرج مرفوع",
+        "الصف الأول — مثال رفع الحرج",
+        "الصف الثاني — القاعدة من الدليل",
+        "الصف الثاني — مثال المشقة",
+        "الصف الثالث — الدليل",
+        "الصف الثالث — المثال وضوابطه"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q61",
+      "section": 8,
+      "originalNumber": 60,
+      "occurrence": 1,
+      "page": 248,
+      "answerPage": 272,
+      "items": 12,
+      "partsCovered": [
+        "الصف أ — الفطر للمسافر والمريض",
+        "الصف ب — حفظ النفس",
+        "الصف ج — أخذ الزينة",
+        "الصف د — حفظ الدين",
+        "الصف هـ — آداب الأكل والشرب",
+        "الصف و — الرخصة للمضطر في أكل الميتة",
+        "الصف ز — رفع الحرج عن المكلف",
+        "الصف ح — حفظ العقل",
+        "الصف ط — الرفق والإحسان",
+        "الصف ي — حفظ العرض",
+        "الصف ك — تجنب رفقاء السوء",
+        "الصف ل — طلب العلم"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q62",
+      "section": 8,
+      "originalNumber": 61,
+      "occurrence": 1,
+      "page": 249,
+      "answerPage": 273,
+      "items": 5,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د",
+        "الصف هـ"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q63",
+      "section": 8,
+      "originalNumber": 62,
+      "occurrence": 1,
+      "page": 249,
+      "answerPage": 273,
+      "items": 5,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د",
+        "الصف هـ"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q64",
+      "section": 8,
+      "originalNumber": 63,
+      "occurrence": 1,
+      "page": 249,
+      "answerPage": 274,
+      "items": 5,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د",
+        "الصف هـ"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q65",
+      "section": 8,
+      "originalNumber": 64,
+      "occurrence": 1,
+      "page": 249,
+      "answerPage": 274,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q66",
+      "section": 8,
+      "originalNumber": 65,
+      "occurrence": 1,
+      "page": 250,
+      "answerPage": 274,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q67",
+      "section": 8,
+      "originalNumber": 66,
+      "occurrence": 1,
+      "page": 250,
+      "answerPage": 274,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q68",
+      "section": 8,
+      "originalNumber": 67,
+      "occurrence": 1,
+      "page": 250,
+      "answerPage": 275,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q69",
+      "section": 8,
+      "originalNumber": 68,
+      "occurrence": 1,
+      "page": 250,
+      "answerPage": 275,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q70",
+      "section": 8,
+      "originalNumber": 69,
+      "occurrence": 1,
+      "page": 250,
+      "answerPage": 275,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q71",
+      "section": 8,
+      "originalNumber": 70,
+      "occurrence": 1,
+      "page": 251,
+      "answerPage": 275,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q72",
+      "section": 8,
+      "originalNumber": 71,
+      "occurrence": 1,
+      "page": 251,
+      "answerPage": 276,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q73",
+      "section": 8,
+      "originalNumber": 72,
+      "occurrence": 1,
+      "page": 251,
+      "answerPage": 276,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q74",
+      "section": 8,
+      "originalNumber": 73,
+      "occurrence": 1,
+      "page": 252,
+      "answerPage": 276,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s8-q75",
+      "section": 8,
+      "originalNumber": 74,
+      "occurrence": 1,
+      "page": 252,
+      "answerPage": 277,
+      "items": 4,
+      "partsCovered": [
+        "التحقق من سلامة الاستدلال",
+        "معرفة علل التشريعات",
+        "إلحاق النازلة بنظيرها",
+        "ضبط الماهيات والمعاني"
+      ],
+      "unresolved": [
+        "العلامة أ مؤكدة في PDF، لكن عموم السؤال لا يوضح سبب استبعاد ب وج وهما مرتبطان أيضا بوجوه الاحتياج إلى المقاصد؛ تحفظ على الحصرية لا فقدان للمفتاح."
+      ]
+    },
+    {
+      "parentId": "s8-q76",
+      "section": 8,
+      "originalNumber": 75,
+      "occurrence": 1,
+      "page": 252,
+      "answerPage": 277,
+      "items": 5,
+      "partsCovered": [
+        "المسألة الأصولية",
+        "حجة المخالفين — المصدرية والاستقلال",
+        "حجة المخالفين — الاستقراء",
+        "حجة المخالفين — النظر الكلي",
+        "حجة المخالفين — اجتهاد الصحابة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q1",
+      "section": 9,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 279,
+      "answerPage": 300,
+      "items": 3,
+      "partsCovered": [
+        "الدرس الأول — تعظيم أمر الرسول",
+        "الدرس الثاني — الشورى",
+        "الدرس الثالث — العفو والصفح"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q2",
+      "section": 9,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 279,
+      "answerPage": 300,
+      "items": 3,
+      "partsCovered": [
+        "منهج المحدثين",
+        "منهج المؤرخين",
+        "تكامل المنهجين"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q3",
+      "section": 9,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 280,
+      "answerPage": 301,
+      "items": 3,
+      "partsCovered": [
+        "المآل الأول — التمهيد لفتح مكة",
+        "المآل الثاني — انتشار الدعوة",
+        "المآل الثالث — التعريف بالأخلاق"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q4",
+      "section": 9,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 280,
+      "answerPage": 301,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q5",
+      "section": 9,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 280,
+      "answerPage": 301,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q6",
+      "section": 9,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 280,
+      "answerPage": 302,
+      "items": 2,
+      "partsCovered": [
+        "أ — أول من أسلم من الرجال",
+        "ب — أول المهاجرين إلى المدينة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q7",
+      "section": 9,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 281,
+      "answerPage": 302,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q8",
+      "section": 9,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 281,
+      "answerPage": 302,
+      "items": 6,
+      "partsCovered": [
+        "أ — قبيلة النبي",
+        "ب — مدة الدعوة السرية",
+        "ج — أول من آمن",
+        "د — بداية الجهر بالدعوة",
+        "هـ — الهجرة الأولى",
+        "و — ترتيب نزول المدثر"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q9",
+      "section": 9,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 281,
+      "answerPage": 303,
+      "items": 4,
+      "partsCovered": [
+        "أ — حرمة مكة",
+        "ب — المساواة والتقوى",
+        "ج — الوصية والميراث",
+        "د — شروط البيعة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q10",
+      "section": 9,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 282,
+      "answerPage": 303,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q11",
+      "section": 9,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 282,
+      "answerPage": 304,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q12",
+      "section": 9,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 282,
+      "answerPage": 304,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q13",
+      "section": 9,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 282,
+      "answerPage": 304,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q14",
+      "section": 9,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 283,
+      "answerPage": 304,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q15",
+      "section": 9,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 283,
+      "answerPage": 304,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q16",
+      "section": 9,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 283,
+      "answerPage": 305,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q17",
+      "section": 9,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 283,
+      "answerPage": 305,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q18",
+      "section": 9,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 284,
+      "answerPage": 305,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q19",
+      "section": 9,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 284,
+      "answerPage": 305,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q20",
+      "section": 9,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 284,
+      "answerPage": 306,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q21",
+      "section": 9,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 284,
+      "answerPage": 306,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "تعيين جواب وحيد من حيث صحة المعاني غير محسوم بسبب صياغة الخيارات: اعتمد المصدر ب (إحلال الغنائم)، لكن معنى د (جعل الأرض مسجدا) من الخصائص الثابتة أيضا. غطي مفتاح المصدر مع التنبيه، دون الحكم ببطلان المعنى الآخر."
+      ]
+    },
+    {
+      "parentId": "s9-q22",
+      "section": 9,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 285,
+      "answerPage": 306,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q23",
+      "section": 9,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 285,
+      "answerPage": 306,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q24",
+      "section": 9,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 285,
+      "answerPage": 307,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q25",
+      "section": 9,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 285,
+      "answerPage": 307,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q26",
+      "section": 9,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 286,
+      "answerPage": 307,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q27",
+      "section": 9,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 286,
+      "answerPage": 307,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q28",
+      "section": 9,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 286,
+      "answerPage": 308,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q29",
+      "section": 9,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 286,
+      "answerPage": 308,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q30",
+      "section": 9,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 287,
+      "answerPage": 308,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q31",
+      "section": 9,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 287,
+      "answerPage": 308,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q32",
+      "section": 9,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 287,
+      "answerPage": 309,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q33",
+      "section": 9,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 287,
+      "answerPage": 309,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q34",
+      "section": 9,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 288,
+      "answerPage": 309,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q35",
+      "section": 9,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 288,
+      "answerPage": 309,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q36",
+      "section": 9,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 288,
+      "answerPage": 310,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q37",
+      "section": 9,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 288,
+      "answerPage": 310,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q38",
+      "section": 9,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 289,
+      "answerPage": 310,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q39",
+      "section": 9,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 289,
+      "answerPage": 310,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q40",
+      "section": 9,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 289,
+      "answerPage": 311,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q41",
+      "section": 9,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 289,
+      "answerPage": 311,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q42",
+      "section": 9,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 290,
+      "answerPage": 311,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q43",
+      "section": 9,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 290,
+      "answerPage": 311,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q44",
+      "section": 9,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 290,
+      "answerPage": 312,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q45",
+      "section": 9,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 290,
+      "answerPage": 312,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q46",
+      "section": 9,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 291,
+      "answerPage": 312,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q47",
+      "section": 9,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 291,
+      "answerPage": 312,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q48",
+      "section": 9,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 291,
+      "answerPage": 313,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q49",
+      "section": 9,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 292,
+      "answerPage": 313,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q50",
+      "section": 9,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 292,
+      "answerPage": 313,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q51",
+      "section": 9,
+      "originalNumber": 51,
+      "occurrence": 1,
+      "page": 292,
+      "answerPage": 314,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q52",
+      "section": 9,
+      "originalNumber": 52,
+      "occurrence": 1,
+      "page": 293,
+      "answerPage": 314,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q53",
+      "section": 9,
+      "originalNumber": 53,
+      "occurrence": 1,
+      "page": 293,
+      "answerPage": 314,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q54",
+      "section": 9,
+      "originalNumber": 54,
+      "occurrence": 1,
+      "page": 293,
+      "answerPage": 315,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q55",
+      "section": 9,
+      "originalNumber": 55,
+      "occurrence": 1,
+      "page": 294,
+      "answerPage": 315,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q56",
+      "section": 9,
+      "originalNumber": 56,
+      "occurrence": 1,
+      "page": 294,
+      "answerPage": 315,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q57",
+      "section": 9,
+      "originalNumber": 57,
+      "occurrence": 1,
+      "page": 294,
+      "answerPage": 316,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q58",
+      "section": 9,
+      "originalNumber": 58,
+      "occurrence": 1,
+      "page": 295,
+      "answerPage": 316,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q59",
+      "section": 9,
+      "originalNumber": 59,
+      "occurrence": 1,
+      "page": 295,
+      "answerPage": 316,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q60",
+      "section": 9,
+      "originalNumber": 60,
+      "occurrence": 1,
+      "page": 295,
+      "answerPage": 317,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q61",
+      "section": 9,
+      "originalNumber": 61,
+      "occurrence": 1,
+      "page": 296,
+      "answerPage": 317,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q62",
+      "section": 9,
+      "originalNumber": 62,
+      "occurrence": 1,
+      "page": 296,
+      "answerPage": 317,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q63",
+      "section": 9,
+      "originalNumber": 63,
+      "occurrence": 1,
+      "page": 296,
+      "answerPage": 318,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q64",
+      "section": 9,
+      "originalNumber": 64,
+      "occurrence": 1,
+      "page": 297,
+      "answerPage": 318,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q65",
+      "section": 9,
+      "originalNumber": 65,
+      "occurrence": 1,
+      "page": 297,
+      "answerPage": 318,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q66",
+      "section": 9,
+      "originalNumber": 66,
+      "occurrence": 1,
+      "page": 297,
+      "answerPage": 319,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q67",
+      "section": 9,
+      "originalNumber": 67,
+      "occurrence": 1,
+      "page": 298,
+      "answerPage": 319,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s9-q68",
+      "section": 9,
+      "originalNumber": 68,
+      "occurrence": 1,
+      "page": 298,
+      "answerPage": 319,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q1",
+      "section": 10,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 321,
+      "answerPage": 328,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q2",
+      "section": 10,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 321,
+      "answerPage": 328,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q3",
+      "section": 10,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 321,
+      "answerPage": 328,
+      "items": 7,
+      "partsCovered": [
+        "الأصل الأول — عمل أهل المدينة",
+        "الأصل الثاني — قول الصحابي",
+        "الأصل الثالث — سد الذرائع",
+        "أصل إضافي — مراعاة الخلاف",
+        "أصل إضافي — المصالح المرسلة",
+        "أصل إضافي — شرع من قبلنا",
+        "أصل إضافي — الاستصحاب"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q4",
+      "section": 10,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 321,
+      "answerPage": 328,
+      "items": 2,
+      "partsCovered": [
+        "السؤال الأصلي",
+        "تنبيه المصدر — القصة المعروفة"
+      ],
+      "unresolved": [
+        "لم تثبت نسبة إرادة اعتماد الموطأ مرجعا وحيدا إلى المنصور الذهبي: التصحيح الرسمي يختاره، وصاحب هامش المصدر يصرح بأنه لم يجد دليلا عليه. غطي اختيار التصحيح والتنبيه إلى القصة المعروفة مع أبي جعفر المنصور، وبقي إثبات النسبة التاريخية إلى الذهبي غير محسوم."
+      ]
+    },
+    {
+      "parentId": "s10-q5",
+      "section": 10,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 322,
+      "answerPage": 329,
+      "items": 4,
+      "partsCovered": [
+        "أ — سد الذرائع",
+        "ب — الحيل الشرعية",
+        "ج — عمل أهل المدينة",
+        "د — الحديث الضعيف والمرسل"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q6",
+      "section": 10,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 322,
+      "answerPage": 329,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q7",
+      "section": 10,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 322,
+      "answerPage": 329,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q8",
+      "section": 10,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 322,
+      "answerPage": 329,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q9",
+      "section": 10,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 323,
+      "answerPage": 330,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q10",
+      "section": 10,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 323,
+      "answerPage": 330,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q11",
+      "section": 10,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 323,
+      "answerPage": 330,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q12",
+      "section": 10,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 323,
+      "answerPage": 330,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q13",
+      "section": 10,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 323,
+      "answerPage": 330,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q14",
+      "section": 10,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 324,
+      "answerPage": 331,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q15",
+      "section": 10,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 324,
+      "answerPage": 331,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q16",
+      "section": 10,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 324,
+      "answerPage": 331,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q17",
+      "section": 10,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 324,
+      "answerPage": 331,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q18",
+      "section": 10,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 325,
+      "answerPage": 332,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q19",
+      "section": 10,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 325,
+      "answerPage": 332,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q20",
+      "section": 10,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 325,
+      "answerPage": 332,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q21",
+      "section": 10,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 325,
+      "answerPage": 332,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s10-q22",
+      "section": 10,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 326,
+      "answerPage": 333,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q1",
+      "section": 11,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 335,
+      "answerPage": 342,
+      "items": 4,
+      "partsCovered": [
+        "صحة المعتقد",
+        "منهج الإقناع",
+        "الدفاع الجدلي",
+        "الوسطية والاعتدال"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q2",
+      "section": 11,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 335,
+      "answerPage": 342,
+      "items": 2,
+      "partsCovered": [
+        "وحدة العقيدة وسلامتها",
+        "التماسك ووحدة المذهب"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q3",
+      "section": 11,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 335,
+      "answerPage": 342,
+      "items": 1,
+      "partsCovered": [
+        "المصدر والامتداد الإنساني"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q4",
+      "section": 11,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 335,
+      "answerPage": 343,
+      "items": 2,
+      "partsCovered": [
+        "الثابت المذهبي",
+        "الأمن والهوية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q5",
+      "section": 11,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 336,
+      "answerPage": 343,
+      "items": 3,
+      "partsCovered": [
+        "تجلي الوسطية في الأدلة والأحكام",
+        "تجلي الوسطية في الاستدلال",
+        "تجلي الوسطية في القواعد الفقهية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q6",
+      "section": 11,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 336,
+      "answerPage": 343,
+      "items": 4,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q7",
+      "section": 11,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 337,
+      "answerPage": 344,
+      "items": 4,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q8",
+      "section": 11,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 337,
+      "answerPage": 344,
+      "items": 2,
+      "partsCovered": [
+        "الاستدلال القرآني",
+        "الاستدلال الحديثي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q9",
+      "section": 11,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 337,
+      "answerPage": 344,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q10",
+      "section": 11,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 337,
+      "answerPage": 345,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q11",
+      "section": 11,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 338,
+      "answerPage": 345,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q12",
+      "section": 11,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 338,
+      "answerPage": 345,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q13",
+      "section": 11,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 338,
+      "answerPage": 345,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q14",
+      "section": 11,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 338,
+      "answerPage": 346,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q15",
+      "section": 11,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 339,
+      "answerPage": 346,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q16",
+      "section": 11,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 339,
+      "answerPage": 346,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q17",
+      "section": 11,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 339,
+      "answerPage": 346,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q18",
+      "section": 11,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 339,
+      "answerPage": 347,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q19",
+      "section": 11,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 340,
+      "answerPage": 347,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s11-q20",
+      "section": 11,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 340,
+      "answerPage": 347,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q1",
+      "section": 12,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 349,
+      "answerPage": 359,
+      "items": 2,
+      "partsCovered": [
+        "أثر الاعتقاد",
+        "مثال الحديث والقلب"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q2",
+      "section": 12,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 349,
+      "answerPage": 359,
+      "items": 3,
+      "partsCovered": [
+        "الربانية والمصلحة",
+        "تكامل الحقوق والواجبات",
+        "الخصائص والحرية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q3",
+      "section": 12,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 350,
+      "answerPage": 360,
+      "items": 2,
+      "partsCovered": [
+        "المقارنة في المصدر",
+        "المقارنة في الغاية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q4",
+      "section": 12,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 350,
+      "answerPage": 360,
+      "items": 1,
+      "partsCovered": [
+        "تعريف الحضارة"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q5",
+      "section": 12,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 350,
+      "answerPage": 360,
+      "items": 2,
+      "partsCovered": [
+        "الوحي والمبادئ",
+        "الإبداع البشري"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q6",
+      "section": 12,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 351,
+      "answerPage": 361,
+      "items": 3,
+      "partsCovered": [
+        "تزكية السلوك",
+        "الثواب والفاعلية",
+        "الاستخلاف والعمران"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q7",
+      "section": 12,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 351,
+      "answerPage": 361,
+      "items": 5,
+      "partsCovered": [
+        "التنميط والهوية",
+        "النسق المعرفي",
+        "المركز والمحيط",
+        "القيم والتحصين",
+        "تنوع مصادر المنهج"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q8",
+      "section": 12,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 351,
+      "answerPage": 362,
+      "items": 3,
+      "partsCovered": [
+        "التحرر من العبودية",
+        "الكرامة والمقاصد",
+        "ضوابط الحرية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q9",
+      "section": 12,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 352,
+      "answerPage": 362,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q10",
+      "section": 12,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 352,
+      "answerPage": 362,
+      "items": 5,
+      "partsCovered": [
+        "الشمول الإنساني",
+        "المجتمع والفرد",
+        "الأصالة",
+        "التجدد",
+        "الانفتاح"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q11",
+      "section": 12,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 352,
+      "answerPage": 363,
+      "items": 4,
+      "partsCovered": [
+        "التربية العقلية ودليلها",
+        "التربية الخلقية ودليلها",
+        "التربية التعبدية ودليلها",
+        "التربية المالية ودليلها"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q12",
+      "section": 12,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 353,
+      "answerPage": 363,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q13",
+      "section": 12,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 353,
+      "answerPage": 364,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q14",
+      "section": 12,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 353,
+      "answerPage": 364,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q15",
+      "section": 12,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 353,
+      "answerPage": 364,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q16",
+      "section": 12,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 354,
+      "answerPage": 364,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q17",
+      "section": 12,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 354,
+      "answerPage": 364,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q18",
+      "section": 12,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 354,
+      "answerPage": 365,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q19",
+      "section": 12,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 354,
+      "answerPage": 365,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q20",
+      "section": 12,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 355,
+      "answerPage": 365,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q21",
+      "section": 12,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 355,
+      "answerPage": 366,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q22",
+      "section": 12,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 355,
+      "answerPage": 366,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q23",
+      "section": 12,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 356,
+      "answerPage": 366,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q24",
+      "section": 12,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 356,
+      "answerPage": 367,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q25",
+      "section": 12,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 356,
+      "answerPage": 367,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q26",
+      "section": 12,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 356,
+      "answerPage": 367,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q27",
+      "section": 12,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 357,
+      "answerPage": 368,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q28",
+      "section": 12,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 357,
+      "answerPage": 368,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s12-q29",
+      "section": 12,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 357,
+      "answerPage": 368,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q1",
+      "section": 13,
+      "originalNumber": 1,
+      "occurrence": 1,
+      "page": 370,
+      "answerPage": 385,
+      "items": 3,
+      "partsCovered": [
+        "الراوي — اسم الكتاب",
+        "أول لفظ — المؤلف",
+        "الموضوع — المؤلف"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q2",
+      "section": 13,
+      "originalNumber": 2,
+      "occurrence": 1,
+      "page": 370,
+      "answerPage": 385,
+      "items": 8,
+      "partsCovered": [
+        "البند 1 — صحيح البخاري",
+        "البند 2 — صحيح مسلم",
+        "البند 3 — سنن الدارقطني",
+        "البند 4 — سنن ابن ماجة",
+        "البند 5 — مسند الإمام أحمد",
+        "البند 6 — سنن الترمذي",
+        "البند 7 — سنن النسائي",
+        "البند 8 — سنن أبي داود"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q3",
+      "section": 13,
+      "originalNumber": 3,
+      "occurrence": 1,
+      "page": 370,
+      "answerPage": 385,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": [
+        "تحديد الكتاب المقصود بالعنوان العام «الفقه المالكي» غير محسوم: الصورة والتصحيح يختاران ابن أبي زيد القيرواني دون ضبط عنوان معروف بعينه؛ حفظ المفتاح مع بيان الالتباس."
+      ]
+    },
+    {
+      "parentId": "s13-q4",
+      "section": 13,
+      "originalNumber": 4,
+      "occurrence": 1,
+      "page": 370,
+      "answerPage": 385,
+      "items": 5,
+      "partsCovered": [
+        "الصف أ — مناهل العرفان",
+        "الصف ب — الروض الأنف",
+        "الصف ج — العواصم من القواصم",
+        "الصف د — الرسالة",
+        "الصف هـ — البداية والنهاية"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q5",
+      "section": 13,
+      "originalNumber": 5,
+      "occurrence": 1,
+      "page": 371,
+      "answerPage": 386,
+      "items": 4,
+      "partsCovered": [
+        "الصف أ",
+        "الصف ب",
+        "الصف ج",
+        "الصف د"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q6",
+      "section": 13,
+      "originalNumber": 6,
+      "occurrence": 1,
+      "page": 371,
+      "answerPage": 386,
+      "items": 5,
+      "partsCovered": [
+        "مطابقة محصل المقاصد",
+        "مطابقة المرشد المعين",
+        "مطابقة القوانين الفقهية",
+        "مطابقة إحكام الأحكام شرح عمدة الأحكام",
+        "مطابقة كفاية الطالب الرباني على رسالة ابن أبي زيد القيرواني"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q7",
+      "section": 13,
+      "originalNumber": 7,
+      "occurrence": 1,
+      "page": 372,
+      "answerPage": 387,
+      "items": 4,
+      "partsCovered": [
+        "أ — آداب الصحبة والمعاشرة",
+        "ب — جامع البيان",
+        "ج — الفقه المالكي الميسر",
+        "د — السيرة النبوية دروس وعبر"
+      ],
+      "unresolved": [
+        "الفرع أ: لم يحسم توثيق طبعة «آداب الصحبة والمعاشرة» وهوية «محمد الغزالي» نهائيا؛ يرجح فهرس خارجي أبا حامد الغزالي، وحفظ اختيار التصحيح دون نسبته إلى الكاتب المعاصر."
+      ]
+    },
+    {
+      "parentId": "s13-q8",
+      "section": 13,
+      "originalNumber": 8,
+      "occurrence": 1,
+      "page": 372,
+      "answerPage": 387,
+      "items": 5,
+      "partsCovered": [
+        "الصف أ — الموافقات للشاطبي",
+        "الصف ب — فتح الباري لابن حجر العسقلاني",
+        "الصف ج — الشفا للقاضي عياض",
+        "الصف د — أضواء البيان في إيضاح القرآن بالقرآن للشنقيطي",
+        "الصف هـ — البحور الزاخرة في علوم الآخرة لمحمد بن سالم الحنبلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q9",
+      "section": 13,
+      "originalNumber": 9,
+      "occurrence": 1,
+      "page": 373,
+      "answerPage": 388,
+      "items": 6,
+      "partsCovered": [
+        "مطابقة الذخيرة في فروع المالكية",
+        "مطابقة المعونة لمذهب عالم المدينة",
+        "مطابقة جامع الأمهات",
+        "مطابقة تقريب الوصول إلى علم الأصول",
+        "مطابقة النوادر والزيادات",
+        "مطابقة أوجز المسالك إلى موطأ مالك"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q10",
+      "section": 13,
+      "originalNumber": 10,
+      "occurrence": 1,
+      "page": 373,
+      "answerPage": 388,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي متعدد الإجابات"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q11",
+      "section": 13,
+      "originalNumber": 11,
+      "occurrence": 1,
+      "page": 373,
+      "answerPage": 388,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q12",
+      "section": 13,
+      "originalNumber": 12,
+      "occurrence": 1,
+      "page": 373,
+      "answerPage": 388,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q13",
+      "section": 13,
+      "originalNumber": 13,
+      "occurrence": 1,
+      "page": 374,
+      "answerPage": 389,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q14",
+      "section": 13,
+      "originalNumber": 14,
+      "occurrence": 1,
+      "page": 374,
+      "answerPage": 389,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q15",
+      "section": 13,
+      "originalNumber": 15,
+      "occurrence": 1,
+      "page": 374,
+      "answerPage": 389,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q16",
+      "section": 13,
+      "originalNumber": 16,
+      "occurrence": 1,
+      "page": 374,
+      "answerPage": 389,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q17",
+      "section": 13,
+      "originalNumber": 17,
+      "occurrence": 1,
+      "page": 375,
+      "answerPage": 390,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q18",
+      "section": 13,
+      "originalNumber": 18,
+      "occurrence": 1,
+      "page": 375,
+      "answerPage": 390,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q19",
+      "section": 13,
+      "originalNumber": 19,
+      "occurrence": 1,
+      "page": 375,
+      "answerPage": 390,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q20",
+      "section": 13,
+      "originalNumber": 20,
+      "occurrence": 1,
+      "page": 375,
+      "answerPage": 390,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q21",
+      "section": 13,
+      "originalNumber": 21,
+      "occurrence": 1,
+      "page": 376,
+      "answerPage": 391,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q22",
+      "section": 13,
+      "originalNumber": 22,
+      "occurrence": 1,
+      "page": 376,
+      "answerPage": 391,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q23",
+      "section": 13,
+      "originalNumber": 23,
+      "occurrence": 1,
+      "page": 376,
+      "answerPage": 391,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q24",
+      "section": 13,
+      "originalNumber": 24,
+      "occurrence": 1,
+      "page": 376,
+      "answerPage": 391,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q25",
+      "section": 13,
+      "originalNumber": 25,
+      "occurrence": 1,
+      "page": 377,
+      "answerPage": 392,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q26",
+      "section": 13,
+      "originalNumber": 26,
+      "occurrence": 1,
+      "page": 377,
+      "answerPage": 392,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q27",
+      "section": 13,
+      "originalNumber": 27,
+      "occurrence": 1,
+      "page": 377,
+      "answerPage": 392,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q28",
+      "section": 13,
+      "originalNumber": 28,
+      "occurrence": 1,
+      "page": 377,
+      "answerPage": 392,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q29",
+      "section": 13,
+      "originalNumber": 29,
+      "occurrence": 1,
+      "page": 377,
+      "answerPage": 393,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q30",
+      "section": 13,
+      "originalNumber": 30,
+      "occurrence": 1,
+      "page": 378,
+      "answerPage": 393,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q31",
+      "section": 13,
+      "originalNumber": 31,
+      "occurrence": 1,
+      "page": 378,
+      "answerPage": 393,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q32",
+      "section": 13,
+      "originalNumber": 32,
+      "occurrence": 1,
+      "page": 378,
+      "answerPage": 393,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q33",
+      "section": 13,
+      "originalNumber": 33,
+      "occurrence": 1,
+      "page": 378,
+      "answerPage": 394,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q34",
+      "section": 13,
+      "originalNumber": 34,
+      "occurrence": 1,
+      "page": 379,
+      "answerPage": 394,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q35",
+      "section": 13,
+      "originalNumber": 35,
+      "occurrence": 1,
+      "page": 379,
+      "answerPage": 394,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q36",
+      "section": 13,
+      "originalNumber": 36,
+      "occurrence": 1,
+      "page": 379,
+      "answerPage": 394,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q37",
+      "section": 13,
+      "originalNumber": 37,
+      "occurrence": 1,
+      "page": 379,
+      "answerPage": 395,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q38",
+      "section": 13,
+      "originalNumber": 38,
+      "occurrence": 1,
+      "page": 380,
+      "answerPage": 395,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q39",
+      "section": 13,
+      "originalNumber": 39,
+      "occurrence": 1,
+      "page": 380,
+      "answerPage": 395,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q40",
+      "section": 13,
+      "originalNumber": 40,
+      "occurrence": 1,
+      "page": 380,
+      "answerPage": 396,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q41",
+      "section": 13,
+      "originalNumber": 41,
+      "occurrence": 1,
+      "page": 380,
+      "answerPage": 396,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q42",
+      "section": 13,
+      "originalNumber": 42,
+      "occurrence": 1,
+      "page": 381,
+      "answerPage": 396,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q43",
+      "section": 13,
+      "originalNumber": 43,
+      "occurrence": 1,
+      "page": 381,
+      "answerPage": 397,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q44",
+      "section": 13,
+      "originalNumber": 44,
+      "occurrence": 1,
+      "page": 381,
+      "answerPage": 397,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q45",
+      "section": 13,
+      "originalNumber": 45,
+      "occurrence": 1,
+      "page": 382,
+      "answerPage": 397,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q46",
+      "section": 13,
+      "originalNumber": 46,
+      "occurrence": 1,
+      "page": 382,
+      "answerPage": 398,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q47",
+      "section": 13,
+      "originalNumber": 47,
+      "occurrence": 1,
+      "page": 382,
+      "answerPage": 398,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q48",
+      "section": 13,
+      "originalNumber": 48,
+      "occurrence": 1,
+      "page": 382,
+      "answerPage": 398,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q49",
+      "section": 13,
+      "originalNumber": 49,
+      "occurrence": 1,
+      "page": 383,
+      "answerPage": 399,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    },
+    {
+      "parentId": "s13-q50",
+      "section": 13,
+      "originalNumber": 50,
+      "occurrence": 1,
+      "page": 383,
+      "answerPage": 399,
+      "items": 1,
+      "partsCovered": [
+        "السؤال الأصلي"
+      ],
+      "unresolved": []
+    }
+  ],
+  "counts": {
+    "questions": 953,
+    "primaryQuestions": 610,
+    "options": 3586,
+    "explainedOptions": 3586,
+    "sourceCorrectionIssues": 38,
+    "itemsWithNotes": 294
+  }
+}
